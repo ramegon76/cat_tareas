@@ -3,43 +3,52 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="color-scheme" content="light">
-  <title>Catálogo de tareas | PPI</title>
+  <meta name="description" content="Visor jerárquico del Catálogo de Tareas para apoyar el diseño de flujos de trabajo.">
+  <title>Catálogo de Tareas PPI</title>
   <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-  <header class="topbar">
-    <div class="topbar-inner">
+  <header class="siteHeader">
+    <div class="headerInner">
       <div>
-        <h1>Catálogo de tareas</h1>
-        <p>Visor jerárquico para el diseño de flujos de trabajo de la PPI</p>
+        <p class="kicker">Plataforma de Producción de Información</p>
+        <h1>Catálogo de Tareas</h1>
+        <p class="subtitle">Navega, busca y copia elementos de la jerarquía Fase → Actividad → Procedimiento → Tarea.</p>
       </div>
-      <span class="badge">Prototipo</span>
     </div>
   </header>
-  <main class="wrap">
-    <section class="toolbar" aria-label="Herramientas">
-      <label class="searchWrap">
-        <span aria-hidden="true">⌕</span>
-        <input id="search" type="search" autocomplete="off" placeholder="Buscar por clave o nombre de fase, actividad, procedimiento o tarea…" aria-label="Buscar en el catálogo">
-      </label>
-      <button class="btn" id="expandAll" type="button">Expandir todo</button>
-      <button class="btn" id="collapseAll" type="button">Contraer todo</button>
-    </section>
-    <section class="layout">
-      <div class="panel">
-        <div class="panelHead"><h2>Jerarquía MPEG</h2><div class="stats" id="stats"></div></div>
-        <div id="tree" role="tree"><div class="loading">Cargando catálogo…</div></div>
-        <div class="mutedLine">Fuente: Catálogo_de_tareas.xlsx · Columnas E–L · Fase → Actividad → Procedimiento → Tarea</div>
+
+  <main class="appShell">
+    <section class="catalogPanel" aria-labelledby="catalogTitle">
+      <div class="toolbar">
+        <div class="searchBlock">
+          <label for="search" id="catalogTitle">Buscar en el catálogo</label>
+          <input id="search" type="search" autocomplete="off" placeholder="Clave o nombre, por ejemplo: 5.2 o codificar">
+        </div>
+        <div class="toolbarActions" aria-label="Controles del árbol">
+          <button id="expandAll" class="btn secondary" type="button">Expandir todo</button>
+          <button id="collapseAll" class="btn secondary" type="button">Contraer todo</button>
+        </div>
       </div>
-      <aside class="panel detail" aria-live="polite">
-        <div class="panelHead"><h2>Tarea seleccionada</h2></div>
-        <div class="detailBody" id="detail"><div class="placeholder">Selecciona una tarea para ver sus datos y copiarla.</div></div>
-      </aside>
+
+      <div class="catalogMeta">
+        <span id="stats" aria-live="polite">Cargando catálogo…</span>
+        <span class="copyHint">El botón ⧉ copia clave + nombre.</span>
+      </div>
+
+      <div id="errorBox" class="alert hidden" role="alert"></div>
+      <div id="tree" class="tree" aria-label="Jerarquía del catálogo"></div>
     </section>
-    <section id="errorBox" class="errorBox hidden" role="alert"></section>
+
+    <aside class="detailPanel" aria-labelledby="detailTitle">
+      <h2 id="detailTitle">Elemento seleccionado</h2>
+      <div id="detail" class="detail emptyDetail">
+        <p>Selecciona una fase, actividad, procedimiento o tarea para consultar sus datos y copiarlos.</p>
+      </div>
+    </aside>
   </main>
-  <div class="toast" id="toast" role="status"></div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script src="js/app.js" defer></script>
 </body>
 </html>
