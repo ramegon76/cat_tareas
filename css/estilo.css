@@ -127,20 +127,22 @@ summary::-webkit-details-marker { display: none; }
 details[open] > .chev { transform: rotate(90deg); }
 
 summary{
-  display:flex;
-  align-items:center;
+  display:block;
 }
 
 summary > .nodeRow{
   flex:1;
 }
 
-.nodeRow {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 6px;
-  align-items: center;
-  border-radius: 8px;
+.nodeRow{
+  display:grid;
+  grid-template-columns: 22px minmax(0,1fr) auto;
+  gap:6px;
+  align-items:center;
+  border-radius:8px;
+}
+.nodeRow .chev{
+  justify-self:center;
 }
 .nodeRow:hover { background: #f4f8fa; }
 .nodeRow.active { background: var(--brand-soft); box-shadow: inset 3px 0 var(--brand); }
@@ -173,14 +175,15 @@ summary > .nodeRow{
 }
 
 .children { margin-left: 20px; padding-left: 11px; border-left: 1px solid #dce5ea; }
-.miniCopy {
-  margin-right: 5px;
-  border: 0;
-  border-radius: 7px;
-  padding: 7px 9px;
-  color: var(--brand);
-  background: transparent;
-  font-weight: 700;
+.miniCopy{
+  justify-self:end;
+  margin-right:0;
+  border:0;
+  border-radius:7px;
+  padding:7px 9px;
+  color:var(--brand);
+  background:transparent;
+  font-weight:700;
 }
 .miniCopy:hover { background: #dceef5; }
 
