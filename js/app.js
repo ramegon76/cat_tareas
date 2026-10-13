@@ -88,19 +88,48 @@ function phaseMatches(phase, query) {
 }
 
 function rowMarkup(level, item, rawQuery, expandable = false) {
+
   const id = nodeId(level, item.clave);
   const isActive = selectedId === id ? " active" : "";
-  const chevron = expandable ? '<span class="chev" aria-hidden="true">›</span>' : '<span class="chev" aria-hidden="true"></span>';
   const label = level.charAt(0).toUpperCase() + level.slice(1);
 
   return `
     <div class="nodeRow${isActive}" data-node-id="${esc(id)}">
-      <button class="nodeSelect" type="button" data-select-level="${esc(level)}" data-select-key="${esc(item.clave)}" aria-label="Seleccionar ${esc(label)} ${esc(item.clave)}">
-        ${chevron}
-        <span class="nodeLabel"><span class="clave">${highlight(item.clave, rawQuery)}</span>${highlight(item.nombre, rawQuery)}<span class="levelTag">${esc(label)}</span></span>
+
+      ${
+        expandable
+          ? `<span class="chev" aria-hidden="true">›</span>`
+          : `<span class="chev" aria-hidden="true"></span>`
+      }
+
+      <button
+        class="nodeSelect"
+        type="button"
+        data-select-level="${esc(level)}"
+        data-select-key="${esc(item.clave)}"
+        aria-label="Seleccionar ${esc(label)} ${esc(item.clave)}">
+
+        <span class="nodeLabel">
+          <span class="clave">${highlight(item.clave, rawQuery)}</span>
+          ${highlight(item.nombre, rawQuery)}
+          <span class="levelTag">${esc(label)}</span>
+        </span>
+
       </button>
-      <button class="miniCopy" type="button" data-copy="${esc(nodeText(item))}" title="Copiar clave y nombre" aria-label="Copiar ${esc(label)} ${esc(item.clave)}">⧉</button>
-    </div>`;
+
+      <button
+        class="miniCopy"
+        type="button"
+        data-copy="${esc(nodeText(item))}"
+        title="Copiar clave y nombre"
+        aria-label="Copiar ${esc(label)} ${esc(item.clave)}">
+
+        ⧉
+
+      </button>
+
+    </div>
+  `;
 }
 
 function render() {
