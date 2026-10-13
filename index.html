@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Catálogo de tareas | PPI</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div>
+        <h1>Catálogo de tareas</h1>
+        <p>Visor jerárquico para el diseño de flujos de trabajo de la PPI</p>
+      </div>
+      <span class="badge">Prototipo</span>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="toolbar" aria-label="Herramientas">
+      <label class="searchWrap">
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" autocomplete="off" placeholder="Buscar por clave o nombre de fase, actividad, procedimiento o tarea…" aria-label="Buscar en el catálogo">
+      </label>
+      <button class="btn" id="expandAll" type="button">Expandir todo</button>
+      <button class="btn" id="collapseAll" type="button">Contraer todo</button>
+    </section>
+    <section class="layout">
+      <div class="panel">
+        <div class="panelHead"><h2>Jerarquía MPEG</h2><div class="stats" id="stats"></div></div>
+        <div id="tree" role="tree"><div class="loading">Cargando catálogo…</div></div>
+        <div class="mutedLine">Fuente: Catálogo_de_tareas.xlsx · Columnas E–L · Fase → Actividad → Procedimiento → Tarea</div>
+      </div>
+      <aside class="panel detail" aria-live="polite">
+        <div class="panelHead"><h2>Tarea seleccionada</h2></div>
+        <div class="detailBody" id="detail"><div class="placeholder">Selecciona una tarea para ver sus datos y copiarla.</div></div>
+      </aside>
+    </section>
+    <section id="errorBox" class="errorBox hidden" role="alert"></section>
+  </main>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

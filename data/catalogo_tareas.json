@@ -1,0 +1,1600 @@
+{
+  "fases": [
+    {
+      "clave": "Fase 1",
+      "nombre": "Documentación de necesidades",
+      "actividades": [
+        {
+          "clave": "1.1",
+          "nombre": "Detectar necesidades de información",
+          "procedimientos": [
+            {
+              "clave": "1.1.1",
+              "nombre": "Identificar nuevas necesidades de información o actualizar las mismas",
+              "tareas": [
+                {
+                  "clave": "1.1.1.1",
+                  "nombre": "Identificar requerimiento de inf. de UE o UA, Comités, Org. sociales, privadas o inter."
+                },
+                {
+                  "clave": "1.1.1.2",
+                  "nombre": "Determinar las disposiciones normativas aplicables"
+                },
+                {
+                  "clave": "1.1.1.3",
+                  "nombre": "Establecer las especificaciones de la información a generar"
+                },
+                {
+                  "clave": "1.1.1.4",
+                  "nombre": "Identificar el objetivo y uso previsto de la información"
+                },
+                {
+                  "clave": "1.1.1.5",
+                  "nombre": "Definir conceptos a representar o medir"
+                }
+              ]
+            },
+            {
+              "clave": "1.1.2",
+              "nombre": "Realizar la comprobación de la disponibilidad de datos",
+              "tareas": [
+                {
+                  "clave": "1.1.2.3",
+                  "nombre": "Comprobar la disponibilidad de fuente"
+                },
+                {
+                  "clave": "1.1.2.2",
+                  "nombre": "Describir las disposiciones legales y administrativas"
+                }
+              ]
+            },
+            {
+              "clave": "1.1.3",
+              "nombre": "Elaborar o actualizar el documento de necesidades estructuradas de información",
+              "tareas": [
+                {
+                  "clave": "1.1.3.1",
+                  "nombre": "Integrar o actualizar el documento de necesidades estructuradas de información"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.2",
+          "nombre": "Elaborar el plan de viabilidad técnica y económica",
+          "procedimientos": [
+            {
+              "clave": "1.2.1",
+              "nombre": "Determinar la programación del presupuesto y costos",
+              "tareas": [
+                {
+                  "clave": "1.2.1.1",
+                  "nombre": "Elaborar el calendario de la ejecución del proceso de producción"
+                },
+                {
+                  "clave": "1.2.1.2",
+                  "nombre": "Elaborar el programa presupuestal y de costos"
+                },
+                {
+                  "clave": "1.2.1.3",
+                  "nombre": "Identificar las necesidades de recursos humanos"
+                },
+                {
+                  "clave": "1.2.1.4",
+                  "nombre": "Identificar las necesidades de recursos materiales"
+                }
+              ]
+            },
+            {
+              "clave": "1.2.2",
+              "nombre": "Elaborar el plan de viabilidad técnica y económica",
+              "tareas": [
+                {
+                  "clave": "1.2.2.1",
+                  "nombre": "Definir el plan de viabilidad técnica y económica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.3",
+          "nombre": "Gestionar las necesidades de información en los CTE, CE o CCN",
+          "procedimientos": [
+            {
+              "clave": "1.3.1",
+              "nombre": "Realizar la gestión de las necesidades de información en los CTE, CE o CCN",
+              "tareas": [
+                {
+                  "clave": "1.3.1.1",
+                  "nombre": "Dar seguimiento a la propuesta de nuevas necesidades de información para los CTE, CE o CCN"
+                },
+                {
+                  "clave": "1.3.1.2",
+                  "nombre": "Elaborar el listado de los CTE, CE o CCN, en los que se gestionó la información"
+                },
+                {
+                  "clave": "1.3.1.3",
+                  "nombre": "Integrar copia de actas o minutas de las sesiones en las que se dictaminaron las necesidades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.4",
+          "nombre": "Generar la matriz de relación entre conceptos",
+          "procedimientos": [
+            {
+              "clave": "1.4.1",
+              "nombre": "Analizar la relación entre los conceptos de necesidades de inf. y los planteados por UE o UA",
+              "tareas": [
+                {
+                  "clave": "1.4.1.2",
+                  "nombre": "Establecer relación entre los conceptos de necesidades de inf. y los planteados por UE o UA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.5",
+          "nombre": "Integrar lista de conceptos y desagregaciones de interés",
+          "procedimientos": [
+            {
+              "clave": "1.5.1",
+              "nombre": "Identificar los conceptos y desagregaciones de interés",
+              "tareas": [
+                {
+                  "clave": "1.5.1.1",
+                  "nombre": "Elaborar la lista de conceptos y desagregaciones de interés"
+                },
+                {
+                  "clave": "1.5.1.2",
+                  "nombre": "Elaborar matriz de relación entre necesidades de inf. con obj. o estrategias del PND y SNIEG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.6",
+          "nombre": "Elaborar listado de datos insumo para la generación de inf. e instr. jurídicos que la soportan",
+          "procedimientos": [
+            {
+              "clave": "1.6.1",
+              "nombre": "Determinar los datos para la generación de información y el soporte jurídico para su acceso",
+              "tareas": [
+                {
+                  "clave": "1.6.1.1",
+                  "nombre": "Integrar listado de datos que se utilizarán como insumo para la generación de información"
+                },
+                {
+                  "clave": "1.6.1.2",
+                  "nombre": "Integrar los instrumentos jurídicos que soportan el acceso a los datos insumo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "1.7",
+          "nombre": "Elaborar listado de prog. que captan información de conceptos equivalentes y su justificación",
+          "procedimientos": [
+            {
+              "clave": "1.7.1",
+              "nombre": "Identificar los prog. que captan información de conceptos equivalentes y su justif.",
+              "tareas": [
+                {
+                  "clave": "1.7.1.1",
+                  "nombre": "Integrar el listado de programas que captan información representando conceptos equivalentes"
+                },
+                {
+                  "clave": "1.7.1.2",
+                  "nombre": "Determinar las justificaciones que hacen necesaria la generación de la información"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 2",
+      "nombre": "Diseño",
+      "actividades": [
+        {
+          "clave": "2.1",
+          "nombre": "Elaborar el diseño conceptual y de productos de difusión",
+          "procedimientos": [
+            {
+              "clave": "2.1.1",
+              "nombre": "Realizar la investigación documental",
+              "tareas": [
+                {
+                  "clave": "2.1.1.1",
+                  "nombre": "Revisar normatividad relacionada"
+                },
+                {
+                  "clave": "2.1.1.2",
+                  "nombre": "Revisar planes y programas gubernamentales"
+                },
+                {
+                  "clave": "2.1.1.3",
+                  "nombre": "Revisar recomendaciones internacionales y procesos de producción similares"
+                },
+                {
+                  "clave": "2.1.1.7",
+                  "nombre": "Elaborar propuesta de cambios"
+                },
+                {
+                  "clave": "2.1.1.8",
+                  "nombre": "Realizar prueba cognitiva y estadística"
+                },
+                {
+                  "clave": "2.1.1.9",
+                  "nombre": "Ajustar propuesta de cambios"
+                },
+                {
+                  "clave": "2.1.1.10",
+                  "nombre": "Ejecutar la consulta pública"
+                },
+                {
+                  "clave": "2.1.1.11",
+                  "nombre": "Analizar resultados de la consulta pública y documentar conceptos y desagregaciones"
+                },
+                {
+                  "clave": "2.1.1.12",
+                  "nombre": "Elaborar el reporte de resultados de la investigación documental"
+                }
+              ]
+            },
+            {
+              "clave": "2.1.2",
+              "nombre": "Determinar el marco conceptual y el uso de la infraestructura de información",
+              "tareas": [
+                {
+                  "clave": "2.1.2.3",
+                  "nombre": "Determinar el uso de la infraestructura de información"
+                },
+                {
+                  "clave": "2.1.2.4",
+                  "nombre": "Elaborar el esquema conceptual y glosario"
+                },
+                {
+                  "clave": "2.1.2.5",
+                  "nombre": "Integrar el marco conceptual"
+                }
+              ]
+            },
+            {
+              "clave": "2.1.3",
+              "nombre": "Especificar metadatos",
+              "tareas": [
+                {
+                  "clave": "2.1.3.1",
+                  "nombre": "Elaborar metadatos referenciales del proceso de producción"
+                },
+                {
+                  "clave": "2.1.3.2",
+                  "nombre": "Elaborar el diccionario de datos"
+                }
+              ]
+            },
+            {
+              "clave": "2.1.4",
+              "nombre": "Diseñar los productos de información y sus presentaciones",
+              "tareas": [
+                {
+                  "clave": "2.1.4.1",
+                  "nombre": "Determinar las presentaciones para la difusión de resultados"
+                },
+                {
+                  "clave": "2.1.4.2",
+                  "nombre": "Determinar los contenidos por tipo de presentación"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "2.2",
+          "nombre": "Diseñar las plataformas informáticas y flujos de trabajo",
+          "procedimientos": [
+            {
+              "clave": "2.2.1",
+              "nombre": "Diseñar plataformas informáticas, componentes, aplicaciones y servicios de software",
+              "tareas": [
+                {
+                  "clave": "2.2.1.1",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software para la captación"
+                },
+                {
+                  "clave": "2.2.1.2",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software para la difusión"
+                },
+                {
+                  "clave": "2.2.1.3",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software para procesamiento"
+                },
+                {
+                  "clave": "2.2.1.4",
+                  "nombre": "Diseñar plataformas inform., comp., app. y serv. de soft. para análisis de la producción"
+                },
+                {
+                  "clave": "2.2.1.5",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software para la integración"
+                },
+                {
+                  "clave": "2.2.1.6",
+                  "nombre": "Diseñar plat. inform., comp., app. y serv. de soft. para cálc. y calibración de ponderadores"
+                },
+                {
+                  "clave": "2.2.1.7",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software para la codificación"
+                },
+                {
+                  "clave": "2.2.1.8",
+                  "nombre": "Diseñar plataformas informáticas, comp., app. y serv. de software para la validación"
+                },
+                {
+                  "clave": "2.2.1.9",
+                  "nombre": "Diseñar plataformas informáticas, comp., app. y serv. de software para edición e imputación"
+                },
+                {
+                  "clave": "2.2.1.10",
+                  "nombre": "Diseñar plat. inform., comp., app. y serv. soft. de creación de nuevas variables o unidades"
+                },
+                {
+                  "clave": "2.2.1.11",
+                  "nombre": "Diseñar plat. inform., comp., app. y serv. soft. para agregaciones y medidas est."
+                }
+              ]
+            },
+            {
+              "clave": "2.2.2",
+              "nombre": "Diseñar flujos de trabajo",
+              "tareas": [
+                {
+                  "clave": "2.2.2.1",
+                  "nombre": "Elaborar el diseño del flujo de trabajo"
+                },
+                {
+                  "clave": "2.2.2.2",
+                  "nombre": "Diseñar plataformas informáticas, componentes, app. y serv. de software del flujo de trabajo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "2.3",
+          "nombre": "Realizar el diseño de la captación",
+          "procedimientos": [
+            {
+              "clave": "2.3.1",
+              "nombre": "Diseñar y probar el cuestionario para la captación",
+              "tareas": [
+                {
+                  "clave": "2.3.1.1",
+                  "nombre": "Plantear o ajustar la estructura y secuencia temática"
+                },
+                {
+                  "clave": "2.3.1.2",
+                  "nombre": "Elaborar o ajustar el cuestionario"
+                },
+                {
+                  "clave": "2.3.1.3",
+                  "nombre": "Realizar las pruebas de factibilidad operativa del cuestionario"
+                },
+                {
+                  "clave": "2.3.1.5",
+                  "nombre": "Elaborar un instrumento de evaluación del cuestionario"
+                },
+                {
+                  "clave": "2.3.1.6",
+                  "nombre": "Determinar la congruencia, así como homogeneidad y comparabilidad de los datos captados"
+                }
+              ]
+            },
+            {
+              "clave": "2.3.2",
+              "nombre": "Diseñar criterios de validación para la captación",
+              "tareas": [
+                {
+                  "clave": "2.3.2.1",
+                  "nombre": "Diseñar canales y protocolos de captación"
+                },
+                {
+                  "clave": "2.3.2.2",
+                  "nombre": "Elaborar los criterios de validación de la captación"
+                },
+                {
+                  "clave": "2.3.2.3",
+                  "nombre": "Elaborar manuales y otros materiales"
+                }
+              ]
+            },
+            {
+              "clave": "2.3.3",
+              "nombre": "Definir estrategia operativa para la captación",
+              "tareas": [
+                {
+                  "clave": "2.3.3.1",
+                  "nombre": "Determinar el equipamiento y recursos materiales necesarios"
+                },
+                {
+                  "clave": "2.3.3.2",
+                  "nombre": "Definir el material de promoción del operativo de campo"
+                },
+                {
+                  "clave": "2.3.3.3",
+                  "nombre": "Establecer estrategia operativa de la captación (logística)"
+                },
+                {
+                  "clave": "2.3.3.4",
+                  "nombre": "Especificar plantilla, perfiles y estrategias de contratación del personal"
+                },
+                {
+                  "clave": "2.3.3.5",
+                  "nombre": "Formalizar un instrumento jurídico para la obtención de información"
+                },
+                {
+                  "clave": "2.3.3.6",
+                  "nombre": "Diseñar la captura de datos"
+                },
+                {
+                  "clave": "2.3.3.7",
+                  "nombre": "Establecer estrategia para visitar las unidades de observación y su verificación"
+                },
+                {
+                  "clave": "2.3.3.9",
+                  "nombre": "Verificar equipamiento y recursos materiales disponibles"
+                },
+                {
+                  "clave": "2.3.3.10",
+                  "nombre": "Especificar estrategia para la comunicación y concertación"
+                },
+                {
+                  "clave": "2.3.3.11",
+                  "nombre": "Definir estrategia de control y seguimiento de la captación"
+                },
+                {
+                  "clave": "2.3.3.12",
+                  "nombre": "Establecer estrategia para la actualización cartográfica"
+                },
+                {
+                  "clave": "2.3.3.13",
+                  "nombre": "Definir estrategia de reclutamiento del personal"
+                },
+                {
+                  "clave": "2.3.3.14",
+                  "nombre": "Gestionar equipamiento y recursos materiales adicionales"
+                },
+                {
+                  "clave": "2.3.3.15",
+                  "nombre": "Especificar estrategia de capacitación del personal"
+                },
+                {
+                  "clave": "2.3.3.16",
+                  "nombre": "Definir estrategia de distribución de equipamiento y recursos materiales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "2.4",
+          "nombre": "Determinar la población objeto de estudio, el marco muestral y el tipo de muestreo",
+          "procedimientos": [
+            {
+              "clave": "2.4.2",
+              "nombre": "Determinar el marco de muestreo",
+              "tareas": [
+                {
+                  "clave": "2.4.2.1",
+                  "nombre": "Revisar la disponibilidad de un marco de muestreo"
+                },
+                {
+                  "clave": "2.4.2.3",
+                  "nombre": "Definir el tipo y los elementos del marco de muestreo"
+                },
+                {
+                  "clave": "2.4.2.4",
+                  "nombre": "Realizar los requerimientos para el marco de muestreo"
+                },
+                {
+                  "clave": "2.4.2.6",
+                  "nombre": "Elaborar muestra maestra"
+                },
+                {
+                  "clave": "2.4.2.7",
+                  "nombre": "Documentar el marco de muestreo"
+                },
+                {
+                  "clave": "2.4.2.2",
+                  "nombre": "Actualizar el marco de muestreo"
+                }
+              ]
+            },
+            {
+              "clave": "2.4.3",
+              "nombre": "Determinar el esquema de muestreo",
+              "tareas": [
+                {
+                  "clave": "2.4.3.1",
+                  "nombre": "Elegir el tipo de muestreo"
+                }
+              ]
+            },
+            {
+              "clave": "2.4.4",
+              "nombre": "Determinar la muestra probabilística",
+              "tareas": [
+                {
+                  "clave": "2.4.4.1",
+                  "nombre": "Calcular el tamaño de la muestra"
+                },
+                {
+                  "clave": "2.4.4.2",
+                  "nombre": "Distribuir la muestra en los estratos"
+                },
+                {
+                  "clave": "2.4.4.3",
+                  "nombre": "Seleccionar la muestra"
+                }
+              ]
+            },
+            {
+              "clave": "2.4.5",
+              "nombre": "Definir las estimaciones para muestreo probabilístico",
+              "tareas": [
+                {
+                  "clave": "2.4.5.1",
+                  "nombre": "Diseñar los estimadores, precisiones estadísticas e indicadores de precisión"
+                }
+              ]
+            },
+            {
+              "clave": "2.4.6",
+              "nombre": "Documentar el diseño de la muestra",
+              "tareas": [
+                {
+                  "clave": "2.4.6.1",
+                  "nombre": "Elaborar la nota metodológica del diseño de la muestra"
+                }
+              ]
+            },
+            {
+              "clave": "2.4.7",
+              "nombre": "Determinar el marco de población",
+              "tareas": [
+                {
+                  "clave": "2.4.7.1",
+                  "nombre": "Revisar la disponibilidad de un marco de población previo"
+                },
+                {
+                  "clave": "2.4.7.3",
+                  "nombre": "Definir el tipo y los elementos del marco de población"
+                },
+                {
+                  "clave": "2.4.7.4",
+                  "nombre": "Realizar los requerimientos para el marco de población"
+                },
+                {
+                  "clave": "2.4.7.6",
+                  "nombre": "Documentar el marco de población"
+                },
+                {
+                  "clave": "2.4.7.2",
+                  "nombre": "Actualizar el marco de población"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "2.5",
+          "nombre": "Diseñar el procesamiento y análisis de la producción",
+          "procedimientos": [
+            {
+              "clave": "2.5.1",
+              "nombre": "Diseñar metodologías y algoritmos para el procesamiento y análisis",
+              "tareas": [
+                {
+                  "clave": "2.5.1.1",
+                  "nombre": "Diseñar algoritmos para integrar los datos de la captación"
+                },
+                {
+                  "clave": "2.5.1.2",
+                  "nombre": "Diseñar los algoritmos para la codificación"
+                },
+                {
+                  "clave": "2.5.1.3",
+                  "nombre": "Diseñar algoritmos para el cálculo y calibración de ponderadores"
+                },
+                {
+                  "clave": "2.5.1.4",
+                  "nombre": "Diseñar algoritmos para la validación de los datos"
+                },
+                {
+                  "clave": "2.5.1.5",
+                  "nombre": "Diseñar algoritmos para la edición e imputación de los datos"
+                },
+                {
+                  "clave": "2.5.1.6",
+                  "nombre": "Diseñar algoritmos para la creación de nuevas variables o unidades"
+                },
+                {
+                  "clave": "2.5.1.7",
+                  "nombre": "Diseñar algoritmos para el cálculo de agregaciones y medidas estadísticas"
+                },
+                {
+                  "clave": "2.5.1.8",
+                  "nombre": "Diseñar finalización del conj. de datos procesados y análisis para liberación de resultados"
+                },
+                {
+                  "clave": "2.5.1.9",
+                  "nombre": "Planear la codificación"
+                },
+                {
+                  "clave": "2.5.1.10",
+                  "nombre": "Diseñar capacitación para la codificación"
+                },
+                {
+                  "clave": "2.5.1.11",
+                  "nombre": "Diseñar evaluación para la codificación"
+                },
+                {
+                  "clave": "2.5.1.12",
+                  "nombre": "Planear la validación"
+                },
+                {
+                  "clave": "2.5.1.13",
+                  "nombre": "Diseñar capacitación para la validación"
+                }
+              ]
+            },
+            {
+              "clave": "2.5.2",
+              "nombre": "Determinar estrategias y mecanismos para la seguridad de la información",
+              "tareas": [
+                {
+                  "clave": "2.5.2.1",
+                  "nombre": "Determinar estrategias y mecanismos para la seguridad de la información"
+                },
+                {
+                  "clave": "2.5.2.2",
+                  "nombre": "Definir mecanismos para la confidencialidad estadística"
+                }
+              ]
+            },
+            {
+              "clave": "2.5.3",
+              "nombre": "Definir estructuras de datos, estrategias de almacenamiento y conservación de la información",
+              "tareas": [
+                {
+                  "clave": "2.5.3.1",
+                  "nombre": "Diseñar la estructura de datos del conjunto de información y objetos complementarios"
+                },
+                {
+                  "clave": "2.5.3.2",
+                  "nombre": "Definir estrategias de almacenamiento y conservación de la información"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "2.6",
+          "nombre": "Diseñar esquema de difusión de los prod. de inf. y acuerdos y protocolos de intercambio",
+          "procedimientos": [
+            {
+              "clave": "2.6.1",
+              "nombre": "Realizar el diseño del esquema de difusión",
+              "tareas": [
+                {
+                  "clave": "2.6.1.1",
+                  "nombre": "Especificar el esquema de difusión"
+                },
+                {
+                  "clave": "2.6.1.2",
+                  "nombre": "Obtener retroalimentación del esquema de difusión de la UA competente en la materia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 3",
+      "nombre": "Construcción",
+      "actividades": [
+        {
+          "clave": "3.1",
+          "nombre": "Construir y mejorar la infraestructura informática, componentes, aplicaciones y serv. de soft.",
+          "procedimientos": [
+            {
+              "clave": "3.1.1",
+              "nombre": "Desarrollar sistema para la captación",
+              "tareas": [
+                {
+                  "clave": "3.1.1.1",
+                  "nombre": "Desarrollar el sistema administrador"
+                },
+                {
+                  "clave": "3.1.1.2",
+                  "nombre": "Construir el sistema para la captación"
+                },
+                {
+                  "clave": "3.1.1.4",
+                  "nombre": "Elaborar o actualizar la documentación del sistema para la captación"
+                }
+              ]
+            },
+            {
+              "clave": "3.1.2",
+              "nombre": "Desarrollar sistemas para el procesamiento",
+              "tareas": [
+                {
+                  "clave": "3.1.2.1",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para la integración de datos"
+                },
+                {
+                  "clave": "3.1.2.2",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para la codificación"
+                },
+                {
+                  "clave": "3.1.2.3",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. de validación, ed., e imputación"
+                },
+                {
+                  "clave": "3.1.2.4",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para nuevas variables y unidades"
+                },
+                {
+                  "clave": "3.1.2.5",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para el cálculo de ponderadores"
+                },
+                {
+                  "clave": "3.1.2.6",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para calcular agreg. y med. est."
+                },
+                {
+                  "clave": "3.1.2.7",
+                  "nombre": "Documentar plataformas inform., comp., app. y serv. de soft. para el procesamiento / Elaborar o actualizar la documentación del sistema para el procesamiento"
+                }
+              ]
+            },
+            {
+              "clave": "3.1.3",
+              "nombre": "Desarrollar sistemas para el análisis de la producción",
+              "tareas": [
+                {
+                  "clave": "3.1.3.1",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para res. est. e ind. de calidad"
+                },
+                {
+                  "clave": "3.1.3.2",
+                  "nombre": "Documentar plat. inform., comp., app. y serv. de soft. de cálc. res. est. e ind. de calidad / Elaborar o actualizar la documentación de sistemas para el análisis de la producción"
+                }
+              ]
+            },
+            {
+              "clave": "3.1.4",
+              "nombre": "Desarrollar sistemas para la difusión",
+              "tareas": [
+                {
+                  "clave": "3.1.4.1",
+                  "nombre": "Construir plat. inform., comp., app. y serv. de soft. para difusión de productos y servicios"
+                },
+                {
+                  "clave": "3.1.4.2",
+                  "nombre": "Documentar plat. inform., comp., app. y serv. de soft. para difusión de prods. y servicios / Elaborar o actualizar la documentación del sistema para la difusión"
+                }
+              ]
+            },
+            {
+              "clave": "3.1.5",
+              "nombre": "Desarrollar sistemas para la gestión de flujos de trabajo",
+              "tareas": [
+                {
+                  "clave": "3.1.5.1",
+                  "nombre": "Construir plataformas inform., comp., app. y serv. de soft. para gestionar flujo de trabajo"
+                },
+                {
+                  "clave": "3.1.5.2",
+                  "nombre": "Doc. ajustes a plat. inform., comp., app. y serv. de soft. para gestionar flujo de trabajo / Elaborar o actualizar la documentación del sistema para la gestión de flujo de trabajo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "3.2",
+          "nombre": "Probar la infraestructura inform., comp., app., serv. de soft., y flujos de trabajo",
+          "procedimientos": [
+            {
+              "clave": "3.2.1",
+              "nombre": "Realizar pruebas de infraestructura inform., comp., app., serv. de soft., y flujos de trabajo",
+              "tareas": [
+                {
+                  "clave": "3.2.1.1",
+                  "nombre": "Realizar pruebas de funcionalidad, seguridad y estrés para el sistema de captación"
+                },
+                {
+                  "clave": "3.2.1.2",
+                  "nombre": "Realizar pruebas de funcionalidad, seguridad y estrés del sistema para el procesamiento"
+                },
+                {
+                  "clave": "3.2.1.3",
+                  "nombre": "Realizar pruebas de funcionalidad, seguridad y estrés de sis. para análisis de la producción"
+                },
+                {
+                  "clave": "3.2.1.4",
+                  "nombre": "Realizar pruebas de funcionalidad, seguridad y estrés del sistema para la difusión"
+                },
+                {
+                  "clave": "3.2.1.5",
+                  "nombre": "Verificar funcionamiento del sistema para la gestión de flujo de trabajo"
+                },
+                {
+                  "clave": "3.2.1.6",
+                  "nombre": "Integrar documentación de las pruebas de los sistemas para la producción"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "3.3",
+          "nombre": "Gestionar una prueba de campo o piloto de la captación, procesamiento y análisis",
+          "procedimientos": [
+            {
+              "clave": "3.3.1",
+              "nombre": "Preparar la prueba de campo o piloto",
+              "tareas": [
+                {
+                  "clave": "3.3.1.1",
+                  "nombre": "Preparar muestra y carga de trabajo para prueba de campo o piloto"
+                },
+                {
+                  "clave": "3.3.1.2",
+                  "nombre": "Capacitar al personal de la prueba de campo o piloto"
+                },
+                {
+                  "clave": "3.3.1.3",
+                  "nombre": "Preparar la logística para la prueba de campo o piloto"
+                }
+              ]
+            },
+            {
+              "clave": "3.3.2",
+              "nombre": "Implementar la prueba de campo o piloto",
+              "tareas": [
+                {
+                  "clave": "3.3.2.1",
+                  "nombre": "Ejecutar el levantamiento de la prueba de campo o piloto"
+                },
+                {
+                  "clave": "3.3.2.2",
+                  "nombre": "Ejecutar el procesamiento de la prueba de campo o piloto"
+                },
+                {
+                  "clave": "3.3.2.3",
+                  "nombre": "Ejecutar el análisis de la producción de la prueba de campo o piloto"
+                }
+              ]
+            },
+            {
+              "clave": "3.3.3",
+              "nombre": "Evaluar la prueba de campo o piloto",
+              "tareas": [
+                {
+                  "clave": "3.3.3.1",
+                  "nombre": "Analizar los resultados de la prueba de campo o piloto"
+                },
+                {
+                  "clave": "3.3.3.2",
+                  "nombre": "Ajustar los sistemas para la producción"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "3.4",
+          "nombre": "Desplegar los componentes, aplicaciones y servicios de software",
+          "procedimientos": [
+            {
+              "clave": "3.4.1",
+              "nombre": "Ensamblar y config. comp., app., serv. de soft. en producción para uso de áreas operativas",
+              "tareas": [
+                {
+                  "clave": "3.4.1.1",
+                  "nombre": "Desplegar y verificar el sistema para recibir datos de captación en el entorno de producción"
+                },
+                {
+                  "clave": "3.4.1.2",
+                  "nombre": "Desplegar y verificar el sistema para la codificación en el entorno de producción"
+                },
+                {
+                  "clave": "3.4.1.3",
+                  "nombre": "Desplegar y verificar el sist. para la validación, ed., e imputación en el entorno de prod."
+                },
+                {
+                  "clave": "3.4.1.4",
+                  "nombre": "Desplegar y verificar otros sistemas para el procesamiento y análisis"
+                },
+                {
+                  "clave": "3.4.1.5",
+                  "nombre": "Desplegar y verificar el sist. para recibir datos de captación en el entorno de prod. en AT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "3.5",
+          "nombre": "Capacitar al personal responsable en el uso de componentes, aplicaciones y servicios de software",
+          "procedimientos": [
+            {
+              "clave": "3.5.1",
+              "nombre": "Elaborar el material de capacitación para la operación de los sistemas",
+              "tareas": [
+                {
+                  "clave": "3.5.1.1",
+                  "nombre": "Elaborar el material del sistema para la captación"
+                }
+              ]
+            },
+            {
+              "clave": "3.5.2",
+              "nombre": "Realizar las acciones de capacitación al personal responsable",
+              "tareas": [
+                {
+                  "clave": "3.5.2.1",
+                  "nombre": "Capacitar a personal responsable del sistema para la captación"
+                },
+                {
+                  "clave": "3.5.2.2",
+                  "nombre": "Capacitar a personal responsable del sistema para la codificación"
+                },
+                {
+                  "clave": "3.5.2.3",
+                  "nombre": "Capacitar a personal responsable del sistema para la validación, edición e imputación"
+                },
+                {
+                  "clave": "3.5.2.4",
+                  "nombre": "Capacitar a personal responsable de otros sistemas para el procesamiento y análisis"
+                },
+                {
+                  "clave": "3.5.2.5",
+                  "nombre": "Capacitar a personal responsable del sistema para la captación en AT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 4",
+      "nombre": "Captación",
+      "actividades": [
+        {
+          "clave": "4.1",
+          "nombre": "Verificar que las personas, procesos y tecnología estén listos para la captación de los datos",
+          "procedimientos": [
+            {
+              "clave": "4.1.1",
+              "nombre": "Contratar personal y preparar logística para la captación",
+              "tareas": [
+                {
+                  "clave": "4.1.1.1",
+                  "nombre": "Realizar las contrataciones pertinentes en OC"
+                },
+                {
+                  "clave": "4.1.1.2",
+                  "nombre": "Realizar las contrataciones pertinentes en AT"
+                },
+                {
+                  "clave": "4.1.1.3",
+                  "nombre": "Preparar el esquema de captación"
+                },
+                {
+                  "clave": "4.1.1.4",
+                  "nombre": "Asignar cargas de trabajo y tramos de control en AT"
+                },
+                {
+                  "clave": "4.1.1.5",
+                  "nombre": "Concertar entrevista con los informantes"
+                },
+                {
+                  "clave": "4.1.1.7",
+                  "nombre": "Implementar estrategia para la comunicación y concertación desde OC"
+                },
+                {
+                  "clave": "4.1.1.8",
+                  "nombre": "Enumerar la unidad de observación"
+                }
+              ]
+            },
+            {
+              "clave": "4.1.2",
+              "nombre": "Configurar sistema, equipos y materiales para la captación",
+              "tareas": [
+                {
+                  "clave": "4.1.2.1",
+                  "nombre": "Asegurar recursos materiales y equipo para la captación"
+                },
+                {
+                  "clave": "4.1.2.2",
+                  "nombre": "Enviar listados, recursos materiales y equipo para la captación en ámbito territorial"
+                },
+                {
+                  "clave": "4.1.2.3",
+                  "nombre": "Verificar recursos materiales y equipo para el operativo de campo"
+                },
+                {
+                  "clave": "4.1.2.4",
+                  "nombre": "Configurar sistema para captación, validación, codificación e int. de datos captados"
+                },
+                {
+                  "clave": "4.1.2.5",
+                  "nombre": "Comprobar sistemas para garantizar la seguridad de los datos que son captados en OC"
+                },
+                {
+                  "clave": "4.1.2.6",
+                  "nombre": "Comprobar sistemas y equipos listos para captación y envío de datos"
+                },
+                {
+                  "clave": "4.1.2.7",
+                  "nombre": "Imprimir y prellenar cuestionarios y materiales en AT"
+                },
+                {
+                  "clave": "4.1.2.8",
+                  "nombre": "Distribuir los materiales, equipos y suministros al personal que realiza la captación"
+                },
+                {
+                  "clave": "4.1.2.9",
+                  "nombre": "Gestionar la ministración de recursos para el personal que realiza la captación"
+                }
+              ]
+            },
+            {
+              "clave": "4.1.3",
+              "nombre": "Preparar los recursos humanos para la captación",
+              "tareas": [
+                {
+                  "clave": "4.1.3.1",
+                  "nombre": "Capacitar al personal para la captación en OC"
+                },
+                {
+                  "clave": "4.1.3.2",
+                  "nombre": "Capacitar al personal para la captación en AT"
+                },
+                {
+                  "clave": "4.1.3.3",
+                  "nombre": "Capacitar al personal para la codificación en OC"
+                },
+                {
+                  "clave": "4.1.3.4",
+                  "nombre": "Capacitar al personal para la validación, edición e imputación en OC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "4.2",
+          "nombre": "Implementar la captación de información",
+          "procedimientos": [
+            {
+              "clave": "4.2.1",
+              "nombre": "Realizar captación con los instrumentos de captación, protocolos y canales de int. diseñados",
+              "tareas": [
+                {
+                  "clave": "4.2.1.1",
+                  "nombre": "Efectuar las entrevistas"
+                },
+                {
+                  "clave": "4.2.1.2",
+                  "nombre": "Supervisar, dar seguimiento y asistencia a la captación en AT"
+                },
+                {
+                  "clave": "4.2.1.3",
+                  "nombre": "Supervisar, dar seguimiento y asistencia a la captación en OC"
+                },
+                {
+                  "clave": "4.2.1.4",
+                  "nombre": "Capturar los datos"
+                },
+                {
+                  "clave": "4.2.1.5",
+                  "nombre": "Validar los datos captados en AT"
+                },
+                {
+                  "clave": "4.2.1.6",
+                  "nombre": "Verificar y ajustar datos en instancia de supervisión o con informante"
+                },
+                {
+                  "clave": "4.2.1.7",
+                  "nombre": "Liberar y enviar los datos para concentración en AT"
+                },
+                {
+                  "clave": "4.2.1.8",
+                  "nombre": "Concentrar y enviar datos a OC"
+                },
+                {
+                  "clave": "4.2.1.9",
+                  "nombre": "Recibir y verificar la estructura e integridad de los datos"
+                },
+                {
+                  "clave": "4.2.1.10",
+                  "nombre": "Generar reporte de la captación"
+                },
+                {
+                  "clave": "4.2.1.11",
+                  "nombre": "Elaborar el reporte de supervisión y seguimiento de la captación"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "4.3",
+          "nombre": "Crear el conjunto de datos captados",
+          "procedimientos": [
+            {
+              "clave": "4.3.1",
+              "nombre": "Crear el conjunto de datos captados",
+              "tareas": [
+                {
+                  "clave": "4.3.1.1",
+                  "nombre": "Organizar los datos captados y sus metadatos en un formato adecuado"
+                },
+                {
+                  "clave": "4.3.1.2",
+                  "nombre": "Documentar la captación"
+                },
+                {
+                  "clave": "4.3.1.3",
+                  "nombre": "Resguardar y versionar el conjunto de datos captados y sistema para la captación"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 5",
+      "nombre": "Procesamiento",
+      "actividades": [
+        {
+          "clave": "5.1",
+          "nombre": "Integrar los datos de una o más fuentes",
+          "procedimientos": [
+            {
+              "clave": "5.1.1",
+              "nombre": "Realizar la integración de los datos de una o más fuentes",
+              "tareas": [
+                {
+                  "clave": "5.1.1.1",
+                  "nombre": "Seleccionar datos a integrar"
+                },
+                {
+                  "clave": "5.1.1.2",
+                  "nombre": "Integrar el conjunto de datos para procesamiento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.2",
+          "nombre": "Clasificar, codificar y geoprocesar datos",
+          "procedimientos": [
+            {
+              "clave": "5.2.1",
+              "nombre": "Realizar la clasificación, codificación y geoprocesamiento de datos",
+              "tareas": [
+                {
+                  "clave": "5.2.1.1",
+                  "nombre": "Identificar variables o registros por clasificar, codificar y geoprocesar"
+                },
+                {
+                  "clave": "5.2.1.2",
+                  "nombre": "Clasificar, codificar y geoprocesar automáticamente los datos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.3",
+          "nombre": "Validar datos",
+          "procedimientos": [
+            {
+              "clave": "5.3.1",
+              "nombre": "Realizar la validación de datos",
+              "tareas": [
+                {
+                  "clave": "5.3.1.1",
+                  "nombre": "Seleccionar datos a validar"
+                },
+                {
+                  "clave": "5.3.1.2",
+                  "nombre": "Validar automáticamente los datos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.4",
+          "nombre": "Editar e imputar datos",
+          "procedimientos": [
+            {
+              "clave": "5.4.1",
+              "nombre": "Realizar la edición e imputación de datos",
+              "tareas": [
+                {
+                  "clave": "5.4.1.1",
+                  "nombre": "Determinar si se agregan o se cambian los datos"
+                },
+                {
+                  "clave": "5.4.1.2",
+                  "nombre": "Seleccionar método a utilizar"
+                },
+                {
+                  "clave": "5.4.1.3",
+                  "nombre": "Añadir o cambiar valores y marcarlos en el nuevo conjunto de datos"
+                },
+                {
+                  "clave": "5.4.1.4",
+                  "nombre": "Elaborar metadatos del proceso de edición e imputación"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.5",
+          "nombre": "Derivar datos",
+          "procedimientos": [
+            {
+              "clave": "5.5.1",
+              "nombre": "Realizar la derivación de datos para variables y unidades",
+              "tareas": [
+                {
+                  "clave": "5.5.1.1",
+                  "nombre": "Seleccionar método de derivación"
+                },
+                {
+                  "clave": "5.5.1.2",
+                  "nombre": "Producir variables y unidades derivadas no provistas"
+                },
+                {
+                  "clave": "5.5.1.3",
+                  "nombre": "Generar informe de derivación de variables"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.6",
+          "nombre": "Generar ponderaciones",
+          "procedimientos": [
+            {
+              "clave": "5.6.1",
+              "nombre": "Elaborar ponderadores de acuerdo con la metodología especificada",
+              "tareas": [
+                {
+                  "clave": "5.6.1.1",
+                  "nombre": "Calcular y calibrar ponderadores"
+                },
+                {
+                  "clave": "5.6.1.2",
+                  "nombre": "Validar ponderadores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.7",
+          "nombre": "Crear datos agregados",
+          "procedimientos": [
+            {
+              "clave": "5.7.1",
+              "nombre": "Generar datos agregados a partir de microdatos o agregados de menor nivel",
+              "tareas": [
+                {
+                  "clave": "5.7.1.1",
+                  "nombre": "Calcular datos agregados e indicadores objetivo"
+                },
+                {
+                  "clave": "5.7.1.2",
+                  "nombre": "Calcular estadísticas complementarias"
+                },
+                {
+                  "clave": "5.7.1.3",
+                  "nombre": "Calcular errores de muestreo e indicadores de precisión"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "5.8",
+          "nombre": "Crear el conjunto de datos procesados",
+          "procedimientos": [
+            {
+              "clave": "5.8.1",
+              "nombre": "Generar el conjunto de datos procesados agregando los resultados, datos y metadatos",
+              "tareas": [
+                {
+                  "clave": "5.8.1.1",
+                  "nombre": "Integrar y generar el conjunto de datos procesados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 6",
+      "nombre": "Análisis de la producción",
+      "actividades": [
+        {
+          "clave": "6.1",
+          "nombre": "Producir resultados estadísticos y geográficos",
+          "procedimientos": [
+            {
+              "clave": "6.1.1",
+              "nombre": "Producir medidas adicionales asociadas a la inf. y resultados estadísticos y geográficos",
+              "tareas": [
+                {
+                  "clave": "6.1.1.1",
+                  "nombre": "Calcular resultados estadísticos y geográficos"
+                },
+                {
+                  "clave": "6.1.1.2",
+                  "nombre": "Producir índices, tendencias y otras medidas estadísticas y geográficas"
+                },
+                {
+                  "clave": "6.1.1.3",
+                  "nombre": "Calcular indicadores de calidad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "6.2",
+          "nombre": "Verificar la calidad de los resultados obtenidos",
+          "procedimientos": [
+            {
+              "clave": "6.2.1",
+              "nombre": "Realizar verificación de la calidad de los resultados obtenidos",
+              "tareas": [
+                {
+                  "clave": "6.2.1.1",
+                  "nombre": "Comprobar la confiabilidad de los datos conforme a los indicadores de precisión"
+                },
+                {
+                  "clave": "6.2.1.2",
+                  "nombre": "Comparar los resultados con ciclos anteriores"
+                },
+                {
+                  "clave": "6.2.1.4",
+                  "nombre": "Confrontar los resultados con otras fuentes de información"
+                },
+                {
+                  "clave": "6.2.1.5",
+                  "nombre": "Analizar y documentar inconsistencias"
+                },
+                {
+                  "clave": "6.2.1.6",
+                  "nombre": "Validar los resultados en comparación con las expectativas y la información existente"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "6.3",
+          "nombre": "Resguardar y conservar la información",
+          "procedimientos": [
+            {
+              "clave": "6.3.1",
+              "nombre": "Realizar el resguardo y conservación de la información",
+              "tareas": [
+                {
+                  "clave": "6.3.1.1",
+                  "nombre": "Aplicar lineamientos de confidencialidad"
+                },
+                {
+                  "clave": "6.3.1.2",
+                  "nombre": "Resguardar la información"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "6.4",
+          "nombre": "Finalizar la producción de resultados",
+          "procedimientos": [
+            {
+              "clave": "6.4.1",
+              "nombre": "Crear el conjunto de información",
+              "tareas": [
+                {
+                  "clave": "6.4.1.1",
+                  "nombre": "Completar revisiones de consistencia e integrar el conjunto de información"
+                },
+                {
+                  "clave": "6.4.1.3",
+                  "nombre": "Recopilar y complementar información de soporte para publicación"
+                },
+                {
+                  "clave": "6.4.1.4",
+                  "nombre": "Aprobar contenido estadístico para publicación y elaborar doc. de análisis de la producción"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 7",
+      "nombre": "Difusión",
+      "actividades": [
+        {
+          "clave": "7.1",
+          "nombre": "Cargar los datos y metadatos a ser publicados",
+          "procedimientos": [
+            {
+              "clave": "7.1.1",
+              "nombre": "Realizar la carga de datos y metadatos",
+              "tareas": [
+                {
+                  "clave": "7.1.1.2",
+                  "nombre": "Cargar los metadatos y metodologías a ser publicados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "7.2",
+          "nombre": "Observar, coordinar y gestionar la publicación de la información",
+          "procedimientos": [
+            {
+              "clave": "7.2.1",
+              "nombre": "Aplicar acuerdos y protocolos, coordinar y gestionar la publicación de la información",
+              "tareas": [
+                {
+                  "clave": "7.2.1.2",
+                  "nombre": "Establecer la coordinación entre el área productora y la de difusión"
+                },
+                {
+                  "clave": "7.2.1.3",
+                  "nombre": "Publicar la información, incluyendo la información complementaria"
+                },
+                {
+                  "clave": "7.2.1.4",
+                  "nombre": "Gestionar la incorporación en el acervo de IIN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "7.3",
+          "nombre": "Promover los productos generados y medir la satisfacción de los usuarios",
+          "procedimientos": [
+            {
+              "clave": "7.3.1",
+              "nombre": "Realizar la promoción de los productos generados",
+              "tareas": [
+                {
+                  "clave": "7.3.1.1",
+                  "nombre": "Promover los productos generados, incluyendo el uso de redes sociales, blogs y sitios web"
+                }
+              ]
+            },
+            {
+              "clave": "7.3.2",
+              "nombre": "Realizar la medición de la satisfacción de los usuarios",
+              "tareas": [
+                {
+                  "clave": "7.3.2.1",
+                  "nombre": "Medir la satisfacción de los usuarios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "7.4",
+          "nombre": "Dar seguimiento a las solicitudes",
+          "procedimientos": [
+            {
+              "clave": "7.4.1",
+              "nombre": "Realizar el seguimiento a las solicitudes particulares que realicen los usuarios",
+              "tareas": [
+                {
+                  "clave": "7.4.1.1",
+                  "nombre": "Atender solicitudes particulares que realicen los usuarios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clave": "Fase 8",
+      "nombre": "Evaluación del proceso",
+      "actividades": [
+        {
+          "clave": "8.1",
+          "nombre": "Concentrar los insumos que permitan determinar si el proceso es exitoso",
+          "procedimientos": [
+            {
+              "clave": "8.1.1",
+              "nombre": "Realizar la concentración de los insumos para la evaluación del proceso",
+              "tareas": [
+                {
+                  "clave": "8.1.1.1",
+                  "nombre": "Integrar los insumos para la evaluación del proceso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "8.2",
+          "nombre": "Analizar los insumos de evaluación y sintetizarlos en un reporte de evaluación",
+          "procedimientos": [
+            {
+              "clave": "8.2.1",
+              "nombre": "Realizar análisis y generar un reporte de evaluación del proceso",
+              "tareas": [
+                {
+                  "clave": "8.2.1.1",
+                  "nombre": "Analizar los insumos para generar reporte de evaluación del proceso"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "clave": "8.3",
+          "nombre": "Determinar y acordar un plan de acción",
+          "procedimientos": [
+            {
+              "clave": "8.3.1",
+              "nombre": "Realizar plan de acción de acuerdo con los lineamientos para la gestión de cambios",
+              "tareas": [
+                {
+                  "clave": "8.3.1.1",
+                  "nombre": "Elaborar un plan de acción"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
