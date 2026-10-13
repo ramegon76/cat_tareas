@@ -123,8 +123,17 @@ h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.7rem); }
 details { margin: 3px 0; }
 summary { list-style: none; }
 summary::-webkit-details-marker { display: none; }
-summary .chev { display: inline-block; width: 18px; color: var(--muted); transition: transform .15s ease; }
-details[open] > summary .chev { transform: rotate(90deg); }
+.chev { display: inline-block; width: 18px; color: var(--muted); transition: transform .15s ease; }
+details[open] > .chev { transform: rotate(90deg); }
+
+summary{
+  display:flex;
+  align-items:center;
+}
+
+summary > .nodeRow{
+  flex:1;
+}
 
 .nodeRow {
   display: grid;
