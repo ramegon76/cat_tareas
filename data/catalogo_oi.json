@@ -1,0 +1,1654 @@
+{
+  "metadatos": {
+    "nombre": "Catálogo de Objetos de Información",
+    "fuente": "Relación_OI_por_Tarea_segun_COI.xlsx / FAPT_COI",
+    "nota": "La clave y el nombre identifican tipos de objeto de información; la referencia a ciclo anterior se conserva como contexto de la relación, no como un tipo de OI distinto."
+  },
+  "objetos_informacion": [
+    {
+      "clave": "0.01",
+      "nombre": "Requerimientos de información"
+    },
+    {
+      "clave": "0.02",
+      "nombre": "Recomendaciones internacionales"
+    },
+    {
+      "clave": "0.03",
+      "nombre": "Documentación de cambios en el entorno"
+    },
+    {
+      "clave": "1.1.1.1.1",
+      "nombre": "Planteamiento de necesidades de información"
+    },
+    {
+      "clave": "2.1.2.5.1",
+      "nombre": "Marco conceptual",
+      "variantes_nombre": [
+        "Marco conceptual (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "8.2.1.1.1",
+      "nombre": "Reporte de evaluación del proceso",
+      "variantes_nombre": [
+        "Reporte de evaluación del proceso (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "8.3.1.1.1",
+      "nombre": "Plan de acción",
+      "variantes_nombre": [
+        "Plan de acción (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.04",
+      "nombre": "Normateca"
+    },
+    {
+      "clave": "0.05",
+      "nombre": "Sistema de compilación normativa del SNIEG"
+    },
+    {
+      "clave": "1.1.1.2.1",
+      "nombre": "Listado de normatividad aplicable"
+    },
+    {
+      "clave": "1.1.1.3.1",
+      "nombre": "Población, cobertura y otras especificaciones"
+    },
+    {
+      "clave": "1.1.1.4.1",
+      "nombre": "Planteamiento del objetivo y uso previsto de la información"
+    },
+    {
+      "clave": "1.1.1.5.1",
+      "nombre": "Documentación de temas, variables, conceptos, y desagregaciones de interés"
+    },
+    {
+      "clave": "0.06",
+      "nombre": "Disposiciones legales y administrativas de acceso a los datos"
+    },
+    {
+      "clave": "0.07",
+      "nombre": "Inventario de Programas de Información"
+    },
+    {
+      "clave": "1.1.2.3.1",
+      "nombre": "Evaluación de fuentes de información"
+    },
+    {
+      "clave": "1.1.3.1.1",
+      "nombre": "Documento de detección de necesidades estructuradas de información",
+      "variantes_nombre": [
+        "Documento de detección de necesidades estructuradas de información (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "1.2.1.1.1",
+      "nombre": "Calendario con la programación del proceso"
+    },
+    {
+      "clave": "1.2.1.2.1",
+      "nombre": "Presupuesto y costos",
+      "variantes_nombre": [
+        "Presupuesto y costos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "1.2.1.3.1",
+      "nombre": "Especificación de necesidades de recursos humanos",
+      "variantes_nombre": [
+        "Especificación de necesidades de recursos humanos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.08",
+      "nombre": "Recursos materiales disponibles (SIA)"
+    },
+    {
+      "clave": "1.2.1.4.1",
+      "nombre": "Especificación de necesidades de recursos materiales",
+      "variantes_nombre": [
+        "Especificación de necesidades de recursos materiales (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "1.2.2.1.1",
+      "nombre": "Plan de viabilidad técnica y económica"
+    },
+    {
+      "clave": "1.5.1.2.1",
+      "nombre": "Matriz de relación entre necesidades de información con objetivos o estrategias del PND y otros"
+    },
+    {
+      "clave": "1.7.1.1.1",
+      "nombre": "Listado de los procesos de producción con conceptos equivalentes"
+    },
+    {
+      "clave": "1.7.1.2.1",
+      "nombre": "Justificación del proceso de producción"
+    },
+    {
+      "clave": "1.3.1.1.1",
+      "nombre": "Presentación de propuesta de nuevas necesidades de información para los CTE, CE o CCN"
+    },
+    {
+      "clave": "1.3.1.2.1",
+      "nombre": "Listados de los CTE, CE o CCN"
+    },
+    {
+      "clave": "1.3.1.3.1",
+      "nombre": "Copia de actas o minutas de las sesiones de los CTE, CE o CCN sobre nuevas necesidades"
+    },
+    {
+      "clave": "1.4.1.2.1",
+      "nombre": "Matriz de relación de conceptos entre necesidades y requirentes"
+    },
+    {
+      "clave": "1.5.1.1.1",
+      "nombre": "Lista de conceptos y desagregaciones de interés"
+    },
+    {
+      "clave": "1.6.1.1.1",
+      "nombre": "Listado de datos insumo"
+    },
+    {
+      "clave": "1.6.1.2.1",
+      "nombre": "Listado de datos insumo y soporte jurídico para su acceso"
+    },
+    {
+      "clave": "2.1.1.1.1",
+      "nombre": "Informe de la normatividad relacionada"
+    },
+    {
+      "clave": "2.1.1.2.1",
+      "nombre": "Coincidencias con los planes y programas gubernamentales"
+    },
+    {
+      "clave": "0.09",
+      "nombre": "Sitio de publicaciones del INEGI"
+    },
+    {
+      "clave": "0.1",
+      "nombre": "Convenios de colaboración"
+    },
+    {
+      "clave": "2.1.1.3.1",
+      "nombre": "Contribuciones metodológicas aplicables"
+    },
+    {
+      "clave": "2.3.1.2.1",
+      "nombre": "Instrumento de captación",
+      "variantes_nombre": [
+        "Instrumento de captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.1.1.7.1",
+      "nombre": "Propuesta de cambios preliminar"
+    },
+    {
+      "clave": "2.1.1.8.1",
+      "nombre": "Resultados de la prueba cognitiva y estadística"
+    },
+    {
+      "clave": "2.1.1.9.1",
+      "nombre": "Propuesta de cambios para consulta pública"
+    },
+    {
+      "clave": "2.1.1.10.1",
+      "nombre": "Datos de la consulta pública"
+    },
+    {
+      "clave": "2.1.1.11.1",
+      "nombre": "Reporte de resultados de la consulta pública"
+    },
+    {
+      "clave": "2.1.1.12.1",
+      "nombre": "Reporte de resultados de la investigación documental"
+    },
+    {
+      "clave": "2.1.2.2.1",
+      "nombre": "Justificación del marco conceptual"
+    },
+    {
+      "clave": "0.11",
+      "nombre": "Infraestructura de información disponible"
+    },
+    {
+      "clave": "2.1.2.3.1",
+      "nombre": "Materiales de referencia externa"
+    },
+    {
+      "clave": "0.12",
+      "nombre": "Guía de diseño conceptual para encuestas"
+    },
+    {
+      "clave": "2.1.2.4.1",
+      "nombre": "Esquema de temas, variables y categorías"
+    },
+    {
+      "clave": "2.1.2.4.2",
+      "nombre": "Glosario"
+    },
+    {
+      "clave": "2.1.2.4.3",
+      "nombre": "Esquema de indicadores objetivo"
+    },
+    {
+      "clave": "2.1.3.1.1",
+      "nombre": "Metadatos referenciales del proceso de producción",
+      "variantes_nombre": [
+        "Metadatos referenciales del proceso de producción (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.1.3.2.1",
+      "nombre": "Modelo de base de datos para la captación",
+      "variantes_nombre": [
+        "Modelo de base de datos para la captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.1.3.2.2",
+      "nombre": "Diccionario de datos",
+      "variantes_nombre": [
+        "Diccionario de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.13",
+      "nombre": "Catálogo de usuarios"
+    },
+    {
+      "clave": "0.14",
+      "nombre": "Relación de presentaciones genéricas y especializadas de la DGCSPIRI"
+    },
+    {
+      "clave": "2.1.4.1.1",
+      "nombre": "Lista de presentaciones genéricas y especializadas seleccionadas"
+    },
+    {
+      "clave": "2.1.4.2.1",
+      "nombre": "Diseño de productos de información y sus presentaciones",
+      "variantes_nombre": [
+        "Diseño de productos de información y sus presentaciones (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.1.1",
+      "nombre": "Diseño de plataformas informáticas, componentes, app. y serv. de soft. de captación",
+      "variantes_nombre": [
+        "Diseño de plataformas informáticas, componentes, app. y serv. de soft. de captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.2.1.1",
+      "nombre": "Criterios de validación de la captación",
+      "variantes_nombre": [
+        "Criterios de validación de la captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.4.7.6.1",
+      "nombre": "Documentación del marco de población",
+      "variantes_nombre": [
+        "Documentación del marco de población (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.15",
+      "nombre": "Otros mecanismos para la seguridad y confidencialidad estadística de la información"
+    },
+    {
+      "clave": "2.2.1.2.1",
+      "nombre": "Diseño de plataformas inform., componentes, app. y serv. de soft. para difusión",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., componentes, app. y serv. de soft. para difusión (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.6.1.1.1",
+      "nombre": "Esquema de difusión",
+      "variantes_nombre": [
+        "Esquema de difusión (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.3.1",
+      "nombre": "Diseño de plataformas informáticas, comp., app. y serv. de soft. para procesamiento",
+      "variantes_nombre": [
+        "Diseño de plataformas informáticas, comp., app. y serv. de soft. para procesamiento (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.1.1",
+      "nombre": "Diseño de algoritmos para integrar datos",
+      "variantes_nombre": [
+        "Diseño de algoritmos para integrar datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.2.1",
+      "nombre": "Diseño de algoritmos para la codificación de datos",
+      "variantes_nombre": [
+        "Diseño de algoritmos para la codificación de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.3.1",
+      "nombre": "Diseño de algoritmos para el cálculo y ajuste de ponderadores",
+      "variantes_nombre": [
+        "Diseño de algoritmos para el cálculo y ajuste de ponderadores (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.4.1",
+      "nombre": "Diseño de algoritmos para la validación",
+      "variantes_nombre": [
+        "Diseño de algoritmos para la validación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.5.1",
+      "nombre": "Diseño de algoritmos para la edición e imputación de datos",
+      "variantes_nombre": [
+        "Diseño de algoritmos para la edición e imputación de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.6.1",
+      "nombre": "Diseño de algoritmos para la creación de nuevas variables o unidades",
+      "variantes_nombre": [
+        "Diseño de algoritmos para la creación de nuevas variables o unidades (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.6.2",
+      "nombre": "Modelo de base de datos del procesamiento"
+    },
+    {
+      "clave": "2.5.1.7.1",
+      "nombre": "Diseño de algoritmos para cálculo de agregaciones y medidas estadísticas",
+      "variantes_nombre": [
+        "Diseño de algoritmos para cálculo de agregaciones y medidas estadísticas (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.8.1",
+      "nombre": "Documento de metodología y algoritmos para finalizar el procesamiento y análisis de resultados"
+    },
+    {
+      "clave": "2.2.1.4.1",
+      "nombre": "Diseño de plataformas inform., comp., app. y serv. soft. para análisis de prod.",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., comp., app. y serv. soft. para análisis de prod. (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.2.2.1",
+      "nombre": "Diseño de algoritmos y estrategia para anonimización de datos"
+    },
+    {
+      "clave": "2.5.3.1.1",
+      "nombre": "Modelo de datos del conjunto de información"
+    },
+    {
+      "clave": "2.2.1.5.1",
+      "nombre": "Diseño de plataformas inform., comp., app. y serv. soft. de la integración de datos",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., comp., app. y serv. soft. de la integración de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.6.1",
+      "nombre": "Diseño de plat. inform., comp., app. y serv. soft. para cálc. y calibración de pond.",
+      "variantes_nombre": [
+        "Diseño de plat. inform., comp., app. y serv. soft. para cálc. y calibración de pond. (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.7.1",
+      "nombre": "Diseño de plataformas inform., comp., app. y serv. soft. para codificar datos",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., comp., app. y serv. soft. para codificar datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.8.1",
+      "nombre": "Diseño de plataformas inform., comp., app. y serv. soft. para la validación",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., comp., app. y serv. soft. para la validación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.9.1",
+      "nombre": "Diseño de plataformas inform., comp., app. y serv. soft. de edición e imputación",
+      "variantes_nombre": [
+        "Diseño de plataformas inform., comp., app. y serv. soft. de edición e imputación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.10.1",
+      "nombre": "Diseño de plat. inform., comp., app. y serv. soft. para nuevas variables o unidades",
+      "variantes_nombre": [
+        "Diseño de plat. inform., comp., app. y serv. soft. para nuevas variables o unidades (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.2.1.11.1",
+      "nombre": "Diseño de plat. inform., comp., app. y serv. soft. para agregaciones y medidas est.",
+      "variantes_nombre": [
+        "Diseño de plat. inform., comp., app. y serv. soft. para agregaciones y medidas est. (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.16",
+      "nombre": "Estándar BPMN"
+    },
+    {
+      "clave": "0.17",
+      "nombre": "Arquitectura de datos revelada de los PP"
+    },
+    {
+      "clave": "0.18",
+      "nombre": "Catálogo de tareas"
+    },
+    {
+      "clave": "0.19",
+      "nombre": "Catálogo de objetos de información"
+    },
+    {
+      "clave": "0.2",
+      "nombre": "Catálogo de roles"
+    },
+    {
+      "clave": "2.2.2.1.1",
+      "nombre": "Diseño de flujo de trabajo (MPP)"
+    },
+    {
+      "clave": "2.2.2.2.1",
+      "nombre": "Diseño de plataformas informáticas, componentes, app. y serv. de software del flujo de trabajo"
+    },
+    {
+      "clave": "2.3.1.1.1",
+      "nombre": "Esquema del flujo del instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.2.2",
+      "nombre": "Guías de observación del instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.8.1",
+      "nombre": "Bitácora de cambios al instrumento de captación"
+    },
+    {
+      "clave": "2.3.3.17.1",
+      "nombre": "Manuales operativos",
+      "variantes_nombre": [
+        "Manuales operativos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.1.3.1",
+      "nombre": "Definición del canal de extracción de datos"
+    },
+    {
+      "clave": "2.3.1.11.1",
+      "nombre": "Bitácora de cambios del canal de extracción de datos"
+    },
+    {
+      "clave": "2.3.1.4.1",
+      "nombre": "Diseño de pruebas de factibilidad operativa al instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.5.1",
+      "nombre": "Instrumento de evaluación cognitiva del instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.6.1",
+      "nombre": "Resultado de las pruebas de factibilidad operativa al instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.7.1",
+      "nombre": "Resultados de evaluación cognitiva del instrumento de captación"
+    },
+    {
+      "clave": "2.3.1.9.1",
+      "nombre": "Diseño de pruebas de factibilidad operativa del canal de extracción de datos"
+    },
+    {
+      "clave": "2.3.1.10.1",
+      "nombre": "Resultado de pruebas de factibilidad operativa del canal de extracción de datos"
+    },
+    {
+      "clave": "2.3.2.2.1",
+      "nombre": "Resultados de las pruebas de factibilidad operativa de los criterios de validación"
+    },
+    {
+      "clave": "2.3.3.1.1",
+      "nombre": "Características del equipamiento necesario por figura operativa",
+      "variantes_nombre": [
+        "Características del equipamiento necesario por figura operativa (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.1.2",
+      "nombre": "Recursos materiales necesarios por figura operativa",
+      "variantes_nombre": [
+        "Recursos materiales necesarios por figura operativa (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.2.1",
+      "nombre": "Material de promoción del operativo de campo",
+      "variantes_nombre": [
+        "Material de promoción del operativo de campo (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.3.1",
+      "nombre": "Logística de campo",
+      "variantes_nombre": [
+        "Logística de campo (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.3.2",
+      "nombre": "Criterios e indicadores para el seguimiento y control del operativo"
+    },
+    {
+      "clave": "2.3.3.3.3",
+      "nombre": "Especificación de recursos materiales requeridos"
+    },
+    {
+      "clave": "2.3.3.4.1",
+      "nombre": "Plantilla del personal y roles requeridos para la captación"
+    },
+    {
+      "clave": "0.21",
+      "nombre": "Procedimientos de asuntos jurídicos"
+    },
+    {
+      "clave": "2.3.3.5.1",
+      "nombre": "Instrumento jurídico para obtener datos"
+    },
+    {
+      "clave": "2.3.3.18.1",
+      "nombre": "Solicitud de formalización del instrumento jurídico"
+    },
+    {
+      "clave": "2.3.3.6.1",
+      "nombre": "Manual de captura de datos",
+      "variantes_nombre": [
+        "Manual de captura de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.22",
+      "nombre": "Marco Geoestadístico"
+    },
+    {
+      "clave": "2.3.3.7.1",
+      "nombre": "Procedimiento para visitar las unidades de observación y su verificación",
+      "variantes_nombre": [
+        "Procedimiento para visitar las unidades de observación y su verificación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.9.1",
+      "nombre": "Relación de recursos materiales en inventario"
+    },
+    {
+      "clave": "2.3.3.10.1",
+      "nombre": "Estrategia para la comunicación y concertación",
+      "variantes_nombre": [
+        "Estrategia para la comunicación y concertación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.10.2",
+      "nombre": "Diseño de productos para promoción y difusión en medios de comunicación"
+    },
+    {
+      "clave": "2.3.3.11.1",
+      "nombre": "Estrategia de control y seguimiento de la captación",
+      "variantes_nombre": [
+        "Estrategia de control y seguimiento de la captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.12.1",
+      "nombre": "Procedimiento para la actualización de la cartografía",
+      "variantes_nombre": [
+        "Procedimiento para la actualización de la cartografía (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.23",
+      "nombre": "Procedimientos administrativos para la contratación del personal"
+    },
+    {
+      "clave": "2.3.3.13.1",
+      "nombre": "Estrategia de reclutamiento del personal",
+      "variantes_nombre": [
+        "Estrategia de reclutamiento del personal (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.14.1",
+      "nombre": "Especificación de equipamiento y recursos materiales requeridos"
+    },
+    {
+      "clave": "2.3.3.15.1",
+      "nombre": "Estrategia de capacitación del personal del levantamiento",
+      "variantes_nombre": [
+        "Estrategia de capacitación del personal del levantamiento (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.16.1",
+      "nombre": "Procedimiento para la distribución de equipamiento y recursos materiales",
+      "variantes_nombre": [
+        "Procedimiento para la distribución de equipamiento y recursos materiales (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.3.3.17.2",
+      "nombre": "Material de capacitación para la captación"
+    },
+    {
+      "clave": "2.4.1.1.1",
+      "nombre": "Descripción de la población objeto de estudio"
+    },
+    {
+      "clave": "2.4.2.1.1",
+      "nombre": "Informe de la disponibilidad del marco de muestreo"
+    },
+    {
+      "clave": "0.24",
+      "nombre": "Marco de muestreo por actualizar"
+    },
+    {
+      "clave": "2.4.2.2.1",
+      "nombre": "Marco de muestreo"
+    },
+    {
+      "clave": "2.4.2.3.1",
+      "nombre": "Características del marco de muestreo"
+    },
+    {
+      "clave": "2.4.2.4.1",
+      "nombre": "Solicitud del marco de muestreo"
+    },
+    {
+      "clave": "2.4.2.6.1",
+      "nombre": "Muestra maestra"
+    },
+    {
+      "clave": "2.4.2.7.1",
+      "nombre": "Documentación del marco muestral",
+      "variantes_nombre": [
+        "Documentación del marco muestral (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.4.3.1.1",
+      "nombre": "Esquema de muestreo"
+    },
+    {
+      "clave": "2.4.4.4.1",
+      "nombre": "Documento del diseño muestral",
+      "variantes_nombre": [
+        "Documento del diseño muestral (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.4.3.2.1",
+      "nombre": "Documentación de indicadores de calidad asociados al esquema de muestreo"
+    },
+    {
+      "clave": "2.4.4.1.1",
+      "nombre": "Documentación del tamaño de la muestra"
+    },
+    {
+      "clave": "2.4.4.2.1",
+      "nombre": "Diseño de algoritmos para selección de la muestra",
+      "variantes_nombre": [
+        "Diseño de algoritmos para selección de la muestra (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.4.4.2.2",
+      "nombre": "Documentación del procedimiento de estratificación"
+    },
+    {
+      "clave": "0.25",
+      "nombre": "Marco de población"
+    },
+    {
+      "clave": "2.4.4.3.1",
+      "nombre": "Muestra seleccionada"
+    },
+    {
+      "clave": "2.4.7.1.1",
+      "nombre": "Informe de la disponibilidad del marco de población"
+    },
+    {
+      "clave": "0.26",
+      "nombre": "Marco de población por actualizar"
+    },
+    {
+      "clave": "2.4.7.3.1",
+      "nombre": "Características del marco de población"
+    },
+    {
+      "clave": "2.4.7.4.1",
+      "nombre": "Solicitud del marco de población"
+    },
+    {
+      "clave": "2.5.1.2.2",
+      "nombre": "Modelo de base de datos de codificación"
+    },
+    {
+      "clave": "2.5.1.9.3",
+      "nombre": "Estrategia de la codificación",
+      "variantes_nombre": [
+        "Estrategia de la codificación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.27",
+      "nombre": "Guía de diseño de la muestra para encuestas"
+    },
+    {
+      "clave": "2.5.1.4.2",
+      "nombre": "Modelo de base de datos de validación"
+    },
+    {
+      "clave": "2.5.1.12.1",
+      "nombre": "Estrategia de la validación",
+      "variantes_nombre": [
+        "Estrategia de la validación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.5.2",
+      "nombre": "Modelo de base de datos de edición e imputación"
+    },
+    {
+      "clave": "0.28",
+      "nombre": "Métodos de edición e imputación de datos investigados"
+    },
+    {
+      "clave": "2.5.1.14.1",
+      "nombre": "Diseño del cálculo de las estimaciones y precisiones estadísticas",
+      "variantes_nombre": [
+        "Diseño del cálculo de las estimaciones y precisiones estadísticas (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "0.29",
+      "nombre": "Fichas de los indicadores de calidad"
+    },
+    {
+      "clave": "2.5.1.9.1",
+      "nombre": "Cronograma para la codificación"
+    },
+    {
+      "clave": "2.5.1.9.2",
+      "nombre": "Plantilla del personal y roles requeridos para la codificación"
+    },
+    {
+      "clave": "2.5.1.10.1",
+      "nombre": "Manuales para la codificación de los datos",
+      "variantes_nombre": [
+        "Manuales para la codificación de los datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.10.2",
+      "nombre": "Material de capacitación para la codificación"
+    },
+    {
+      "clave": "2.5.1.11.1",
+      "nombre": "Diseño de la evaluación para la codificación",
+      "variantes_nombre": [
+        "Diseño de la evaluación para la codificación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.12.2",
+      "nombre": "Cronograma para la validación"
+    },
+    {
+      "clave": "2.5.1.12.3",
+      "nombre": "Plantilla del personal y roles requeridos para la validación"
+    },
+    {
+      "clave": "2.5.1.13.1",
+      "nombre": "Manuales para la validación automática y validación manual",
+      "variantes_nombre": [
+        "Manuales para la validación automática y validación manual (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "2.5.1.13.2",
+      "nombre": "Material de capacitación para la validación"
+    },
+    {
+      "clave": "0.3",
+      "nombre": "Sistema de Inventarios de Seguridad de la Información"
+    },
+    {
+      "clave": "2.5.2.1.1",
+      "nombre": "Requerimientos específicos en materia de seguridad de la información"
+    },
+    {
+      "clave": "2.5.2.2.2",
+      "nombre": "Definición de roles que participan en el compromiso de confidencialidad"
+    },
+    {
+      "clave": "2.5.2.2.3",
+      "nombre": "Otros controles de confidencialidad estadística"
+    },
+    {
+      "clave": "2.5.3.2.1",
+      "nombre": "Estrategias y mecanismos para almacenamiento y conservación de la información"
+    },
+    {
+      "clave": "0.31",
+      "nombre": "Acuerdos y protocolos de difusión o intercambio"
+    },
+    {
+      "clave": "2.6.1.2.1",
+      "nombre": "Oficio de retroalimentación del esquema de difusión"
+    },
+    {
+      "clave": "3.1.1.1.1",
+      "nombre": "Modelo de datos del sistema administrador",
+      "variantes_nombre": [
+        "Modelo de datos del sistema administrador (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.1.1.2",
+      "nombre": "Sistema administrador para seguimiento y control operativo",
+      "variantes_nombre": [
+        "Sistema administrador para seguimiento y control operativo (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.1.2.1",
+      "nombre": "Sistema para la captación",
+      "variantes_nombre": [
+        "Sistema para la captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.1.4.1",
+      "nombre": "Documentación del respaldo del sistema",
+      "variantes_nombre": [
+        "Documentación del respaldo del sistema (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.1.4.2",
+      "nombre": "Documentación técnica del sistema",
+      "variantes_nombre": [
+        "Documentación técnica del sistema (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.1.4.3",
+      "nombre": "Manual del sistema para la captación",
+      "variantes_nombre": [
+        "Manual del sistema para la captación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.1.1",
+      "nombre": "Sistema para la integración de datos",
+      "variantes_nombre": [
+        "Sistema para la integración de datos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.2.1",
+      "nombre": "Sistema para la codificación",
+      "variantes_nombre": [
+        "Sistema para la codificación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.2.2",
+      "nombre": "Manual del sistema para la codificación"
+    },
+    {
+      "clave": "3.1.2.3.1",
+      "nombre": "Sistema para la validación, edición e imputación",
+      "variantes_nombre": [
+        "Sistema para la validación, edición e imputación (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.3.2",
+      "nombre": "Manual del sistema para la validación, edición e imputación"
+    },
+    {
+      "clave": "3.1.2.4.1",
+      "nombre": "Sistema para nuevas variables o unidades",
+      "variantes_nombre": [
+        "Sistema para nuevas variables o unidades (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.5.1",
+      "nombre": "Sistema para el cálculo y calibración de ponderadores",
+      "variantes_nombre": [
+        "Sistema para el cálculo y calibración de ponderadores (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.6.1",
+      "nombre": "Sistema para el cálculo de agregaciones y medidas estadísticas",
+      "variantes_nombre": [
+        "Sistema para el cálculo de agregaciones y medidas estadísticas (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.7.1",
+      "nombre": "Manuales de los sistemas para el procesamiento",
+      "variantes_nombre": [
+        "Manuales de los sistemas para el procesamiento (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.7.2",
+      "nombre": "Manuales de otros sistemas para el procesamiento",
+      "variantes_nombre": [
+        "Manuales de otros sistemas para el procesamiento (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.2.7.3",
+      "nombre": "Estrategia de capacitación al personal en el sistema"
+    },
+    {
+      "clave": "3.1.3.1.1",
+      "nombre": "Sistema para el cálculo de resultados estadísticos e indicadores de calidad",
+      "variantes_nombre": [
+        "Sistema para el cálculo de resultados estadísticos e indicadores de calidad (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.3.2.1",
+      "nombre": "Manual del sistema para el cálculo de resultados est. e indicadores de calidad",
+      "variantes_nombre": [
+        "Manual del sistema para el cálculo de resultados est. e indicadores de calidad (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.4.1.1",
+      "nombre": "Sistema para la difusión",
+      "variantes_nombre": [
+        "Sistema para la difusión (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.4.2.1",
+      "nombre": "Manual del sistema para la difusión",
+      "variantes_nombre": [
+        "Manual del sistema para la difusión (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.5.1.1",
+      "nombre": "Sistema para la gestión de flujo de trabajo",
+      "variantes_nombre": [
+        "Sistema para la gestión de flujo de trabajo (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.1.5.2.1",
+      "nombre": "Manual del sistema para la gestión de flujo de trabajo",
+      "variantes_nombre": [
+        "Manual del sistema para la gestión de flujo de trabajo (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "3.2.1.1.1",
+      "nombre": "Documentación de las pruebas del sistema para la captación"
+    },
+    {
+      "clave": "3.2.1.2.1",
+      "nombre": "Documentación de las pruebas del sistema para la codificación"
+    },
+    {
+      "clave": "3.2.1.2.2",
+      "nombre": "Documentación de las pruebas del sistema para el cálculo y calibración de ponderadores"
+    },
+    {
+      "clave": "3.2.1.2.3",
+      "nombre": "Documentación de las pruebas del sistema para la validación, edición e imputación"
+    },
+    {
+      "clave": "3.2.1.2.4",
+      "nombre": "Documentación de las pruebas del sistema para nuevas variables o unidades"
+    },
+    {
+      "clave": "3.2.1.2.5",
+      "nombre": "Documentación de las pruebas del sistema para el cálculo de agregaciones y medidas estadísticas"
+    },
+    {
+      "clave": "3.2.1.3.1",
+      "nombre": "Documentación de las pruebas del sistema para el análisis de la producción"
+    },
+    {
+      "clave": "3.2.1.4.1",
+      "nombre": "Documentación de las pruebas del sistema para la difusión"
+    },
+    {
+      "clave": "3.2.1.5.1",
+      "nombre": "Documentación de las pruebas del sistema para la gestión de flujo de trabajo"
+    },
+    {
+      "clave": "3.2.1.6.1",
+      "nombre": "Documentación integrada de las pruebas de los sistemas para la producción"
+    },
+    {
+      "clave": "3.3.1.1.1",
+      "nombre": "Tramos de control de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.1.1.2",
+      "nombre": "Muestra para la prueba"
+    },
+    {
+      "clave": "3.3.1.1.3",
+      "nombre": "Muestra para la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.1.2.1",
+      "nombre": "Resultados de la evaluación de la capacitación de la prueba de campo o piloto"
+    },
+    {
+      "clave": "0.32",
+      "nombre": "Convenios o acuerdos especiales para la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.1.3.1",
+      "nombre": "Logística de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.1.1",
+      "nombre": "Documentación del levantamiento de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.1.2",
+      "nombre": "Datos captados de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.2.1",
+      "nombre": "Documentación del procesamiento de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.2.2",
+      "nombre": "Datos procesados de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.3.1",
+      "nombre": "Documentación del análisis de la producción de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.2.3.2",
+      "nombre": "Resultados de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.3.1.1",
+      "nombre": "Análisis de resultados de la prueba de campo o piloto"
+    },
+    {
+      "clave": "3.3.3.2.1",
+      "nombre": "Documentación de mejoras a los sistemas de producción"
+    },
+    {
+      "clave": "0.33",
+      "nombre": "Especificación de roles y accesos"
+    },
+    {
+      "clave": "3.4.1.1.1",
+      "nombre": "Notificación y reporte del despliegue del sistema para la captación en el entorno de producción"
+    },
+    {
+      "clave": "3.4.1.2.1",
+      "nombre": "Notificación y reporte del despliegue del sistema para la codificación"
+    },
+    {
+      "clave": "3.4.1.3.1",
+      "nombre": "Notificación y reporte del despliegue del sistema para la validación, edición e imputación"
+    },
+    {
+      "clave": "3.4.1.4.1",
+      "nombre": "Notificación y reporte del despliegue de otros sistemas para el procesamiento y análisis"
+    },
+    {
+      "clave": "3.4.1.5.1",
+      "nombre": "Notificación y reporte del despliegue del sistema para la captación en entorno de producción para AT"
+    },
+    {
+      "clave": "3.5.1.1.1",
+      "nombre": "Material de capacitación del sistema"
+    },
+    {
+      "clave": "3.5.1.1.2",
+      "nombre": "Listas de asistencia a cursos"
+    },
+    {
+      "clave": "3.5.2.1.1",
+      "nombre": "Resultados de la capacitación al personal responsable del sistema para la captación en OC"
+    },
+    {
+      "clave": "3.5.2.2.1",
+      "nombre": "Resultados de la capacitación al personal responsable del sistema para la codificación"
+    },
+    {
+      "clave": "3.5.2.3.1",
+      "nombre": "Resultados de la capacitación al personal responsable del sistema para validación, ed. e imputación"
+    },
+    {
+      "clave": "3.5.2.4.1",
+      "nombre": "Resultados de la capacitación al personal responsable de otros sist. para procesamiento y análisis"
+    },
+    {
+      "clave": "3.5.2.5.1",
+      "nombre": "Resultados de la capacitación al personal responsable del sistema para la captación en AT"
+    },
+    {
+      "clave": "4.1.1.1.1",
+      "nombre": "Plantilla del personal contratado en OC",
+      "variantes_nombre": [
+        "Plantilla del personal contratado en OC (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "4.1.1.2.1",
+      "nombre": "Plantilla del personal contratado en AT",
+      "variantes_nombre": [
+        "Plantilla del personal contratado en AT (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "4.1.1.3.1",
+      "nombre": "Cronograma general del operativo de captación"
+    },
+    {
+      "clave": "4.1.1.3.2",
+      "nombre": "Formatos para el seguimiento y control del operativo"
+    },
+    {
+      "clave": "4.1.1.3.3",
+      "nombre": "Procedimientos específicos para la logística del levantamiento"
+    },
+    {
+      "clave": "4.1.1.4.1",
+      "nombre": "Cargas de trabajo y tramos de control"
+    },
+    {
+      "clave": "4.1.1.4.2",
+      "nombre": "Esquema de captación"
+    },
+    {
+      "clave": "4.1.1.4.3",
+      "nombre": "Conclusión de captura de planeación"
+    },
+    {
+      "clave": "0.34",
+      "nombre": "Convenios y acuerdos para la captación"
+    },
+    {
+      "clave": "4.1.1.5.1",
+      "nombre": "Resultado de visitas realizadas"
+    },
+    {
+      "clave": "4.1.1.7.1",
+      "nombre": "Informe de las acciones de comunicación y concertación"
+    },
+    {
+      "clave": "4.1.1.8.1",
+      "nombre": "Cartografía para el operativo"
+    },
+    {
+      "clave": "4.1.2.1.1",
+      "nombre": "Listado de recursos materiales disponibles"
+    },
+    {
+      "clave": "4.1.2.1.2",
+      "nombre": "Listado de equipos disponibles"
+    },
+    {
+      "clave": "4.1.2.2.1",
+      "nombre": "Notificación VCF de aceptación de suficiencia de mat. y eq. de captación y capacitación"
+    },
+    {
+      "clave": "4.1.2.3.1",
+      "nombre": "Listado de entrega o devolución de materiales, equipos para la captación y manuales"
+    },
+    {
+      "clave": "4.1.2.3.2",
+      "nombre": "Notificación DI-DGOR de disponibilidad de sistemas para capacitación"
+    },
+    {
+      "clave": "4.1.2.4.1",
+      "nombre": "Plataforma de consulta para el ámbito territorial"
+    },
+    {
+      "clave": "4.1.2.5.1",
+      "nombre": "Notificación de sistemas listos para el operativo de campo en OC"
+    },
+    {
+      "clave": "4.1.2.6.1",
+      "nombre": "Listado de equipos verificados en AT"
+    },
+    {
+      "clave": "4.1.2.6.2",
+      "nombre": "Aviso de disponibilidad de los sistemas computacionales para la captación"
+    },
+    {
+      "clave": "4.1.2.7.1",
+      "nombre": "Instrumento de captación y materiales impresos"
+    },
+    {
+      "clave": "4.1.2.8.1",
+      "nombre": "Reporte de materiales, equipos y suministros distribuidos"
+    },
+    {
+      "clave": "0.35",
+      "nombre": "Lineamientos administrativos para la ministración de recursos"
+    },
+    {
+      "clave": "4.1.2.9.1",
+      "nombre": "Relación de recursos asignados"
+    },
+    {
+      "clave": "4.1.3.1.1",
+      "nombre": "Reporte de la capacitación al personal para la captación en OC"
+    },
+    {
+      "clave": "4.1.3.1.2",
+      "nombre": "Evaluación del personal capacitado para la captación en OC"
+    },
+    {
+      "clave": "4.1.3.2.1",
+      "nombre": "Reporte de VCF de capacitación"
+    },
+    {
+      "clave": "4.1.3.2.2",
+      "nombre": "Evaluación de figuras operativas capacitadas en AT"
+    },
+    {
+      "clave": "4.1.3.2.3",
+      "nombre": "Informe de capacitación (de VCF a RF)"
+    },
+    {
+      "clave": "4.1.3.3.1",
+      "nombre": "Reporte de la capacitación al personal para la codificación en OC"
+    },
+    {
+      "clave": "4.1.3.3.2",
+      "nombre": "Evaluación del personal capacitado para la codificación en OC"
+    },
+    {
+      "clave": "4.1.3.4.1",
+      "nombre": "Reporte de la capacitación al personal para la validación, edición e imputación en OC"
+    },
+    {
+      "clave": "4.1.3.4.2",
+      "nombre": "Evaluación del personal capacitado para la validación, edición e imputación en OC"
+    },
+    {
+      "clave": "4.2.1.1.1",
+      "nombre": "Resultado de la entrevista"
+    },
+    {
+      "clave": "4.2.1.1.2",
+      "nombre": "Datos captados de los informantes en papel (en caso de ser necesario)"
+    },
+    {
+      "clave": "4.2.1.1.3",
+      "nombre": "Datos de los instrumentos de captación en el sistema para la captación"
+    },
+    {
+      "clave": "4.2.1.2.1",
+      "nombre": "Reporte de captación, supervisión y seguimiento"
+    },
+    {
+      "clave": "4.2.1.2.2",
+      "nombre": "Notificación de VCF de recepción en tiempo según lo previsto de sistemas para la captación"
+    },
+    {
+      "clave": "4.2.1.5.1",
+      "nombre": "Reporte de validación del operativo"
+    },
+    {
+      "clave": "4.2.1.6.1",
+      "nombre": "Reporte de verificación y ajustes"
+    },
+    {
+      "clave": "4.2.1.3.1",
+      "nombre": "Reporte de seguimiento, avance y cifras de control en OC"
+    },
+    {
+      "clave": "4.2.1.4.1",
+      "nombre": "Bitácora de captura"
+    },
+    {
+      "clave": "4.2.1.5.2",
+      "nombre": "Datos de validación de campo en el sistema para la captación"
+    },
+    {
+      "clave": "4.2.1.7.1",
+      "nombre": "Datos de instrumentos de captación liberados en AT"
+    },
+    {
+      "clave": "4.2.1.8.1",
+      "nombre": "Datos integrados en servidor de AT"
+    },
+    {
+      "clave": "4.2.1.9.1",
+      "nombre": "Notificación de recepción y verificación de los datos"
+    },
+    {
+      "clave": "4.2.1.9.2",
+      "nombre": "Datos de captación concentrados y verificados"
+    },
+    {
+      "clave": "4.2.1.9.3",
+      "nombre": "Metadatos del proceso de captación de datos"
+    },
+    {
+      "clave": "4.2.1.10.1",
+      "nombre": "Reporte integrado de la captación"
+    },
+    {
+      "clave": "4.2.1.11.1",
+      "nombre": "Informe de supervisión"
+    },
+    {
+      "clave": "4.2.1.11.2",
+      "nombre": "Notificación de VCF a RF del reporte de bitácoras de supervisión y seguimiento"
+    },
+    {
+      "clave": "4.3.1.1.1",
+      "nombre": "Conjunto de datos captados"
+    },
+    {
+      "clave": "4.3.1.2.1",
+      "nombre": "Documento operativo"
+    },
+    {
+      "clave": "4.3.1.1.2",
+      "nombre": "Respaldo de conjunto de datos captados, del sist. para la captación y del sist. administrador"
+    },
+    {
+      "clave": "0.36",
+      "nombre": "Datos geoespaciales"
+    },
+    {
+      "clave": "0.37",
+      "nombre": "Registros administrativos"
+    },
+    {
+      "clave": "0.38",
+      "nombre": "Datos de otros procesos de producción"
+    },
+    {
+      "clave": "5.1.1.1.1",
+      "nombre": "Datos complementarios seleccionados"
+    },
+    {
+      "clave": "5.1.1.2.1",
+      "nombre": "Metadatos del proceso de integración del conjunto de datos"
+    },
+    {
+      "clave": "5.2.1.1.1",
+      "nombre": "Variables o registros por clasificar, codificar y geoprocesar"
+    },
+    {
+      "clave": "5.2.1.2.1",
+      "nombre": "Metadatos del proceso de clasificación, codificación y geoprocesamiento de los datos"
+    },
+    {
+      "clave": "5.2.1.2.2",
+      "nombre": "Conjunto de datos con variables clasificadas, codificadas y geoprocesadas"
+    },
+    {
+      "clave": "5.3.1.1.1",
+      "nombre": "Registros detectados con inconsistencias en los datos"
+    },
+    {
+      "clave": "5.3.1.2.1",
+      "nombre": "Metadatos del proceso de validación de datos (bitácora de validación)"
+    },
+    {
+      "clave": "5.3.1.2.2",
+      "nombre": "Conjunto de datos validado"
+    },
+    {
+      "clave": "5.4.1.1.1",
+      "nombre": "Registro de determinación de uso para edición e imputación"
+    },
+    {
+      "clave": "5.4.1.2.1",
+      "nombre": "Selección de la metodología para la edición e imputación"
+    },
+    {
+      "clave": "5.4.1.3.1",
+      "nombre": "Conjunto de datos con edición e imputación"
+    },
+    {
+      "clave": "5.4.1.4.1",
+      "nombre": "Metadatos del proceso de edición e imputación de datos"
+    },
+    {
+      "clave": "5.5.1.1.1",
+      "nombre": "Selección del método de derivación"
+    },
+    {
+      "clave": "5.5.1.2.1",
+      "nombre": "Conjunto de datos con variables derivadas y datos auxiliares"
+    },
+    {
+      "clave": "5.5.1.3.1",
+      "nombre": "Metadatos del proceso de variables derivadas y datos auxiliares"
+    },
+    {
+      "clave": "5.6.1.1.1",
+      "nombre": "Conjunto de datos con ponderadores"
+    },
+    {
+      "clave": "5.6.1.2.1",
+      "nombre": "Metadatos del proceso de cálculo y calibración de ponderadores"
+    },
+    {
+      "clave": "5.7.1.1.1",
+      "nombre": "Metadatos del proceso de cálculo de datos agregados e indicadores objetivo"
+    },
+    {
+      "clave": "5.7.1.1.2",
+      "nombre": "Datos agregados e indicadores objetivo"
+    },
+    {
+      "clave": "5.7.1.2.1",
+      "nombre": "Metadatos del proceso del cálculo de estadísticas complementarias"
+    },
+    {
+      "clave": "5.7.1.2.2",
+      "nombre": "Medidas de estadísticas complementarias"
+    },
+    {
+      "clave": "5.7.1.3.1",
+      "nombre": "Metadatos del proceso de cálculo de errores e indicadores de precisión"
+    },
+    {
+      "clave": "5.7.1.3.2",
+      "nombre": "Errores e indicadores de precisión"
+    },
+    {
+      "clave": "5.8.1.1.1",
+      "nombre": "Conjunto de datos procesados"
+    },
+    {
+      "clave": "5.8.1.1.2",
+      "nombre": "Metadatos del procesamiento"
+    },
+    {
+      "clave": "6.1.1.1.1",
+      "nombre": "Conjunto de resultados estadísticos",
+      "variantes_nombre": [
+        "Conjunto de resultados estadísticos (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "6.1.1.1.2",
+      "nombre": "Metadatos del proceso de cálculo de resultados estadísticos"
+    },
+    {
+      "clave": "6.1.1.2.1",
+      "nombre": "Metadatos del proceso de índices, tendencias y otras medidas estadísticas"
+    },
+    {
+      "clave": "6.1.1.2.2",
+      "nombre": "Índices, tendencias y otras medidas estadísticas"
+    },
+    {
+      "clave": "6.1.1.3.1",
+      "nombre": "Metadatos del proceso de cálculo de indicadores de calidad"
+    },
+    {
+      "clave": "6.1.1.3.2",
+      "nombre": "Indicadores de calidad",
+      "variantes_nombre": [
+        "Indicadores de calidad (Ciclo anterior)"
+      ]
+    },
+    {
+      "clave": "6.2.1.1.1",
+      "nombre": "Reporte de la confiabilidad de los datos"
+    },
+    {
+      "clave": "6.2.1.2.1",
+      "nombre": "Reporte de comparabilidad con otros ciclos"
+    },
+    {
+      "clave": "6.2.1.4.1",
+      "nombre": "Reporte de consistencia con otras fuentes"
+    },
+    {
+      "clave": "0.39",
+      "nombre": "Datos de otras fuentes de información"
+    },
+    {
+      "clave": "6.2.1.5.1",
+      "nombre": "Reporte de análisis de inconsistencias"
+    },
+    {
+      "clave": "6.2.1.6.1",
+      "nombre": "Justificación de validez de resultados"
+    },
+    {
+      "clave": "6.3.1.1.1",
+      "nombre": "Modelo de base de datos (actualizado)"
+    },
+    {
+      "clave": "6.3.1.1.2",
+      "nombre": "Conjunto de datos con controles de difusión"
+    },
+    {
+      "clave": "6.3.1.2.1",
+      "nombre": "Formato de registro en el RBD&RIE"
+    },
+    {
+      "clave": "6.4.1.1.1",
+      "nombre": "Metadatos del conjunto de información"
+    },
+    {
+      "clave": "6.4.1.1.2",
+      "nombre": "Conjunto de información"
+    },
+    {
+      "clave": "6.4.1.3.1",
+      "nombre": "Notas técnicas"
+    },
+    {
+      "clave": "6.4.1.3.2",
+      "nombre": "Publicaciones electrónicas"
+    },
+    {
+      "clave": "6.4.1.3.3",
+      "nombre": "Comunicados de prensa"
+    },
+    {
+      "clave": "6.4.1.4.1",
+      "nombre": "Notificación de liberación de la información a publicar"
+    },
+    {
+      "clave": "6.4.1.4.2",
+      "nombre": "Documento de análisis de la producción"
+    },
+    {
+      "clave": "7.1.1.2.1",
+      "nombre": "Documentos metodológicos"
+    },
+    {
+      "clave": "7.1.1.2.2",
+      "nombre": "Metadatos en el sitio de pruebas del sistema de difusión de metadatos"
+    },
+    {
+      "clave": "7.2.1.2.1",
+      "nombre": "Reportes, acuses u oficios de entrega-recepción entre las UA productoras y la DGCSPIRI"
+    },
+    {
+      "clave": "7.2.1.3.1",
+      "nombre": "Imagen de productos, presentaciones publicadas, metadatos y documentos asociados"
+    },
+    {
+      "clave": "7.2.1.4.1",
+      "nombre": "Información de Interés Nacional publicada en el Sitio del SNIEG (vínculos al sitio del INEGI)"
+    },
+    {
+      "clave": "7.3.1.1.1",
+      "nombre": "Reporte o informe de promoción"
+    },
+    {
+      "clave": "7.3.1.1.2",
+      "nombre": "Recursos de promoción difundidos (folletos, infografías, productos de comunicación)"
+    },
+    {
+      "clave": "0.4",
+      "nombre": "Herramientas de contacto INEGI"
+    },
+    {
+      "clave": "7.3.2.1.1",
+      "nombre": "Datos de las encuestas de satisfacción de los usuarios"
+    },
+    {
+      "clave": "7.3.2.1.2",
+      "nombre": "Retroalimentación de personas usuarias"
+    },
+    {
+      "clave": "0.41",
+      "nombre": "Solicitudes de personas usuarias de la información"
+    },
+    {
+      "clave": "7.4.1.1.1",
+      "nombre": "Registro de atención de solicitudes de acceso a la información y procesamiento adicional de datos"
+    },
+    {
+      "clave": "8.1.1.1.1",
+      "nombre": "Insumos para la evaluación del proceso"
+    }
+  ]
+}
